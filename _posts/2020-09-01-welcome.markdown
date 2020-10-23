@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome"
+date:   2020-09-01 00:09:00 -0500
+categories: [ "meta" ]
+thumbnail: "hand-wave.png"
+author: "Rahul Bhargava"
+---
+
+Welcome to the online home of the Data Culture Group at Northeastern University. We are an interdisciplinary research group led by Professor Rahul Bhargava, housed in the [College of Arts, Media and Design](http://camd.northeastern.edu).
+
+The Data Culture Group builds collaborative projects to **interrogate our datafied society** with a focus on **rethinking power and participation** in data processes. We are housed in the College of Arts, Media and Design at Northeastern Univeristy and led by Professor Rahul Bhargava.
+
+Our projects are collaborations with community groups, media companies, social scientists, computer scientists, and students.
+
+> “It is only when the they go wrong that machines remind you how powerful they are” - Clive James

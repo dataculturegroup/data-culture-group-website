@@ -1,0 +1,45 @@
+title: Data Culture Group @ Northeastern University
+description: Interrogating our datafied society
+author: Rahul Bhargava
+google_analytics: UA-XXXXXXXX-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - logo: "twitter-logo.png"
+      link: "https://twitter.com/rahulbot"
+      name: "twitter"
+
+share:
+  twitter_username: rahulbot
+
+urls:
+    - text: About
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: People
+      url: /people/
+
+url: "https://dataculturegroup.org"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']

@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div id="home">
+
+  <p>
+    The <b>Data Culture Group</b> builds collaborative projects to  <b>interrogate our datafied society</b> with a focus on
+    <b>rethinking participation and power</b> in data processes.
+    Led by Professor Rahul Bhargava, we are a part of the
+    <a href="http://camd.northeastern.edu">College of Arts, Media and Design</a> at Northeastern University.
+  </p>
+
+  <hr />
+
+  <h2>Recent Blog Posts</h2>
+  <p class="light">We <b>think out loud</b>, sharing our process and research via blog posts. Consider our blog as our open notebook,
+    full of <b>sketches and under-construction ideas</b>.</p>
+  <ul class="posts">
+    {% for post in paginator.posts %}
+      <li>
+        <a href="{{ post.url }}"><img src="/static/img/posts/{{ post.thumbnail }}" /></a>
+        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
+        <span class="byline">by {{ post.author }}, {{ post.date | date: "%B %-d, %Y" }}</span>
+        <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 300 }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <!-- Pagination links -->
+  {% if paginator.total_pages > 1 %}
+    <ul class="pagination pagination-sm">
+      {% if paginator.previous_page %}
+        <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a></li>
+      {% else %}
+        <li class="disabled"><span aria-hidden="true">&laquo;</span></li>
+      {% endif %}
+
+      <li><a href="/">First</a></li>
+
+      {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+          <li class="active"><a>{{ page }}<span class="sr-only">(current)</span></a></li>
+        {% elsif page == 1 %}
+          <li><a href="/">{{ page }}</a></li>
+        {% else %}
+          <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+        {% endif %}
+      {% endfor %}
+
+      <li><a href="/page/{{ paginator.total_pages }}/">Last</a></li>
+
+      {% if paginator.next_page %}
+        <li><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a></li>
+      {% else %}
+        <li class="disabled"><span>&raquo;</span></li>
+      {% endif %}
+    </ul>
+  {% endif %}
+</div><!-- end #home -->
