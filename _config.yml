@@ -24,10 +24,6 @@ share:
 urls:
     - text: About
       url: /about/
-    - text: Projects
-      url: /projects/
-    - text: People
-      url: /people/
 
 url: "https://dataculturegroup.org"
 baseurl: ""
