@@ -109,39 +109,48 @@ layout: compress
   <body>
     <div class="container">
 
-      <div class="col-sm-3">
-        <header>
-          <a href="https://dataculturegroup.org"><img src="/static/img/dcg-logo.png" alt="Data Culture Group" class="logo" width="100%"/></a>
-        </header>
-        <div>
-          <ul class="sidebar-nav">
-            <li><a href="/">Home</a></li>
-            {% for i in site.urls %}
-              <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="social">
-          <ul>
-            {% for platform in site.social %}
-              <li><a href="{{ platform.link }}" target="_blank"><img src="/static/img/{{ platform.logo }}" alt="{{ platform.name }}" height="50"/></a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
+      <div class="row">
 
-      <div class="col-sm-8 col-offset-1 main-layout">
-
-        {{ content }}
-
-        <footer>
-          <div class="col-sm-6">
-            <a href="https://northeastern.edu"><img src="/static/img/nu-wordmark.png" alt="Northeastern University" height=80/></a>
+        <div class="col-sm-3">
+          <header>
+            <a href="https://dataculturegroup.org"><img src="/static/img/dcg-logo.png" alt="Data Culture Group" class="logo" width="100%"/></a>
+          </header>
+          <div>
+            <ul class="sidebar-nav">
+              <li><a href="/">Home</a></li>
+              {% for i in site.urls %}
+                <li><a class="about" href="{{ i.url }}">{{ i.text }}</a></li>
+              {% endfor %}
+            </ul>
           </div>
-        </footer>
+        </div>
+        <!-- end /.col-sm-3 -->
+
+        <div class="col-sm-8 col-offset-1 main-layout">
+          {{ content }}
+        </div>
+        <!-- end /.col-sm-8 -->
 
       </div>
-      <!-- end /.col-sm-8 -->
+
+      <div class="row">
+        <div class="col-6">
+          <footer>
+            <div class="col-sm-6">
+              <a href="https://northeastern.edu"><img src="/static/img/nu-wordmark.png" alt="Northeastern University" height=80/></a>
+            </div>
+          </footer>
+        </div>
+        <div class="col-6">
+          <div class="social pull-right">
+            <ul>
+              {% for platform in site.social %}
+                <li><a href="{{ platform.link }}" target="_blank"><img src="/static/img/{{ platform.logo }}" alt="{{ platform.name }}" height="40"/></a></li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+      </div>
 
     </div>
     <!-- end /.container -->
