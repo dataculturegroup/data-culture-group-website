@@ -1,10 +1,9 @@
 ---
-layout: post
 title:  "Pandemic news coverage is falling, but cases keep rising"
 date:   2020-09-21 00:09:00 -0500
 categories: [ "media-analysis" ]
 thumbnail: "attention-top-online.png"
-author: "Rahul Bhargava"
+author: Rahul Bhargava
 ---
 
 The Covid-19 pandemic has yielded unprecedented media coverage. Over the last six months, no single topic has taken over online news quite like the coronavirus has. In fact, at its peak in late March, almost 75% of all stories in top U.S. online media sources mentioned coronavirus in some way.

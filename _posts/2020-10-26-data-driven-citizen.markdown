@@ -1,11 +1,9 @@
 ---
-layout: post
 title:  "The Data-Driven Citizen"
 date:   2020-10-26 00:09:00 -0500
 categories: [ "data-literacy", "civic-engagement" ]
 thumbnail: "data-citizen1.jpg"
-author: "Dana Bullister"
-meta-description:
+author: Dana Bullister
 ---
 
 As a double major in computer science and cognitive science back as an undergraduate, I was fascinated by how even complex concepts might be effectively conveyed to a broad audience, given some understanding of how people think. One of my favorite class readings was an essay called “The Science of Scientific Writing,” which uses features of how people process information to show how simple changes in writing style can dramatically increase reader comprehension. I believe the same framework may be used in other communication channels to add clarity to previously impenetrable muddle.

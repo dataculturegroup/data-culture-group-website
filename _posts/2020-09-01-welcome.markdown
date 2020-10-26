@@ -1,10 +1,9 @@
 ---
-layout: post
 title:  "Welcome"
 date:   2020-09-01 00:09:00 -0500
 categories: [ "meta" ]
 thumbnail: "hand-wave.png"
-author: "Rahul Bhargava"
+author: Rahul Bhargava
 ---
 
 Welcome to the online home of the Data Culture Group at Northeastern University. We are an interdisciplinary research group led by Professor Rahul Bhargava, housed in the [College of Arts, Media and Design](http://camd.northeastern.edu).

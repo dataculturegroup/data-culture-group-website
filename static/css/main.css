@@ -230,3 +230,20 @@ div.post-content .btn-tags {
 .disty-rose { color: #d0909a; }
 .grey-blue { color: #528fa9; }
 .peach { color: #ff9a91; }
+
+/* author inset */
+.author-bio {
+  background: #eee;
+  padding: 20px;
+  margin: 20px 0px;
+  border-radius: 5px;
+}
+.author-bio em {
+  font-size: 20px;
+  font-weight: 400px;
+  font-style: normal;
+}
+.author-bio p {
+  margin: 5px 0px;
+  padding: 0px;
+}
