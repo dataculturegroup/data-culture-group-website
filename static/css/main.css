@@ -65,7 +65,7 @@ blockquote {
   margin-top: 255px;
 }
 .sidebar-nav {
-  margin: 20px 0 0 0;
+  margin: 5px 0 0 0;
   padding: 0;
 }
 .sidebar-nav li {
@@ -210,12 +210,12 @@ div.post-content .btn-tags {
 /* Responsive Conditional */
 @media (max-width: 1200px) {
   .main-layout {
-    margin-top: 200px;
+    margin-top: 212px;
   }
 }
 @media (max-width: 992px) {
   .main-layout {
-    margin-top: 150px;
+    margin-top: 158px;
   }
 }
 @media (max-width: 768px) {
