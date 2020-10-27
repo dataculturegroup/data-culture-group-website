@@ -74,7 +74,16 @@ blockquote {
   text-transform: lowercase;
   font-weight: 500;
   font-size: 18px;
+  background-color: #32a8d9; /* water */
+  padding: 10px;
+  border-radius: 10px;
 }
+.sidebar-nav li a {
+  text-decoration: none;
+  font-weight: 800;
+  color: #fff;
+}
+
 
 /* Post List */
 
