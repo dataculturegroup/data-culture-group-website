@@ -10,7 +10,7 @@ The Covid-19 pandemic has yielded unprecedented media coverage. Over the last si
 
 But that attention seems to be waning, according to our recent analysis of 12.5 million national- and state-level news articles collected through [Media Cloud](https://mediacloud.org/). Since its peak in March, media coverage mentioning coronavirus has tapered off while cases continue to rise – a troubling trend as the virus continues to infect and kill. The U.S. is currently [logging](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&module=Top%20Stories&pgtype=Homepage) more than 33,000 cases per day, and the death tally is over 190,000.
 
-![Attention over time](/static/img/posts/attention-top-online-big.jpg)
+![Attention over time]({{ site.baseurl }}/static/img/posts/attention-top-online-big.jpg)
 *Mentions of coronavirus in [87 top U.S. online news sources](https://sources.mediacloud.org/#/collections/186572516) between January and September 2020 (rolling 3-day mean). Explore this data yourself with [Media Cloud Explorer](https://explorer.mediacloud.org/#/queries/search?qs=%255B%257B%2522label%2522%253A%2522coronavirus%2520OR%2520covid%2520or%2520%255C%2522co...%2522%252C%2522q%2522%253A%2522%27coronavirus%2520OR%2520covid%2520OR%2520%255C%2522covid%252019%255C%2522%2520OR%2520%255C%2522covid-19%255C%2522%2520OR%2520covid19%2520OR%2520pandemic%27%2522%252C%2522color%2522%253A%2522%25231f77b4%2522%252C%2522startDate%2522%253A%25222020-01-09%2522%252C%2522endDate%2522%253A%25222020-09-09%2522%252C%2522sources%2522%253A%255B%255D%252C%2522collections%2522%253A%255B186572516%255D%252C%2522searches%2522%253A%255B%255D%257D%255D).*
 
 So by how much, and where, has media coverage of Covid-19 fallen off? And does coverage track incidence rates in states that have had late surges of infections? We set out to measure how attention to this public health crisis has played out in the last six months across every U.S. state.
@@ -23,29 +23,29 @@ The U.S. has a fairly robust set of media sources like these that cover news at 
 
 Using this database of stories from these local online news sources, we looked to see how much attention coronavirus received in each state. The search terms we used included <i>coronavirus, Covid-19, Covid and pandemic</i>. Across all states, coronavirus was mentioned in 32% of stories published between February and September. This is lower than the national coverage shown above, but still remarkably high. Moreover, the <b>pattern of coverage was remarkably consistent across states</b>. There was a strong surge of coverage in March, then a slow decline until late May. At that point there was a large across-the-board dip as media attention turned to the killing of George Floyd. Then in June pandemic coverage rose and fell periodically, but overall continued a slow decline.
 
-![Attention by state](/static/img/posts/attention-state-overlay.jpg)
+![Attention by state]({{ site.baseurl }}/static/img/posts/attention-state-overlay.jpg)
 *Each line represents the percentage of coronavirus-related stories published by sources in a state (3-day rolling mean).*
 
 We know the pandemic has spread across states differently, so seeing such uniformity in state-level media coverage over time is quite surprising. It left us curious – if you look at state-level coronavirus incidence and compare it to state-level media coverage, do you see a connection? Are local media sources responding to outbreaks, or trends, with increased or decreased coverage? To do this, we pulled in data on the number of new daily cases per 100,000 people from the [Johns Hopkins tracker](https://coronavirus.jhu.edu/).
 
 <b>Arizona</b>
-![Arizona details](/static/img/posts/comparison-AZ.png)
+![Arizona details]({{ site.baseurl }}/static/img/posts/comparison-AZ.png)
 In Arizona, we see a major spike of new cases in July (purple). However, there is no commensurate growth in media coverage (teal) during that same time. There was a massive gap in local coronavirus coverage over the summer – a missed opportunity for Arizona papers to report local stories impacting readers’ lives directly.
 
 <b>Massachusetts</b>
-![Massachusetts details](/static/img/posts/comparison-MA.png)
+![Massachusetts details]({{ site.baseurl }}/static/img/posts/comparison-MA.png)
 In Massachusetts media, we see a fairly consistent tracking between the percentage of stories about coronavirus (teal) and the daily new cases (purple). Here in Mass, we had [an early “superspreader” event](https://www.wbur.org/commonhealth/2020/08/25/genetic-fingerprints-biogen-superspreader-boston) but rates have fallen consistently since. Local media coverage has reflected that.
 
 Looking across the U.S., you can see that the connection between media coverage and the incidence of new cases of coronavirus varies wildly by state. In states like Arizona, Louisiana, Texas and some others, online media coverage about coronavirus didn’t increase when new cases increased. In other words, <b>online local news was not responding to local coronavirus outbreaks with increased coverage</b>. What are the effects of that coverage gap? Why does the percentage of attention to coronavirus track national levels so closely no matter the state?
 
-![State Map](/static/img/posts/comparison-state-map.jpg)
+![State Map]({{ site.baseurl }}/static/img/posts/comparison-state-map.jpg)
 *A state-by-state map comparing the percent of online news stories mentioning coronavirus (in teal) to the number of daily new cases per 100,000 people (in purple). Both lines present a rolling 3-day mean. Click to zoom in. [Code and data is available on GitHub](https://github.com/rahulbot/US-Coronavirus-State-Media-Coverage).*
 
 ## Media responsibility during a pandemic
 
 In a recent [Atlantic article](https://www.theatlantic.com/health/archive/2020/07/it-okay-go-beach/613849/) and [ongoing Twitter thread](https://twitter.com/zeynep/status/1279432888048594944?lang=en), UNC sociologist Zeynep Tufekci calls out editors for their image choices on articles about risky behavior. She points out article after article about risky behaviors featuring shots of beach crowds. This is irresponsible, she says, because science tells us that one of the safest places to be right now is outside. “Enough with the beach-scolding,” she argues.
 
-![beach photo](/static/img/posts/beach-2048x1053.jpg)
+![beach photo]({{ site.baseurl }}/static/img/posts/beach-2048x1053.jpg)
 *My daughter is safe and sound, chilling at the beach.*
 
 This small example gets at a larger argument about the role and responsibility of media in a pandemic, and towards public health at large. Look at the gap of coverage in Oklahoma, where coronavirus continues its steady rise but media reporting has left it out of the headlines. Is the media doing a disservice to public health? Could this gap even be contributing to sickness and death?

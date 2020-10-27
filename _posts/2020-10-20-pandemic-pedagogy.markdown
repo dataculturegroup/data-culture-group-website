@@ -10,6 +10,6 @@ author: Rahul Bhargava
 
 Presented at the [VisActivities Workshop](https://visactivities.github.io) at IEEE Vis 2020.
 
-[Download the PDF](/static/files/Pandemic Pedagogy - Bhargava - final.pdf).
+[Download the PDF]({{ site.baseurl }}/static/files/Pandemic Pedagogy - Bhargava - final.pdf).
 
-![Full Paper](/static/files/Pandemic Pedagogy - Bhargava - final.pdf).
+![Full Paper]({{ site.baseurl }}/static/files/Pandemic Pedagogy - Bhargava - final.pdf).

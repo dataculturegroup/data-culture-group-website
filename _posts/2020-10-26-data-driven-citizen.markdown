@@ -8,7 +8,7 @@ author: Dana Bullister
 
 As a double major in computer science and cognitive science back as an undergraduate, I was fascinated by how even complex concepts might be effectively conveyed to a broad audience, given some understanding of how people think. One of my favorite class readings was an essay called “The Science of Scientific Writing,” which uses features of how people process information to show how simple changes in writing style can dramatically increase reader comprehension. I believe the same framework may be used in other communication channels to add clarity to previously impenetrable muddle.
 
-![generic dashboard](/static/img/posts/data-citizen2.jpg)
+![generic dashboard]({{ site.baseurl }}/static/img/posts/data-citizen2.jpg)
 
 Making complex topics accessible to broad audiences is no more critical than in the realm of enabling functional democracy. The democratic system, by its nature, requires that ordinary people understand and decide on a mind-bogglingly broad array of highly complex issues like international economics, healthcare infrastructure, legal procedures, and more. Or at least it requires a level of understanding that enables citizens to select the best candidate to decide for them, which in itself may be far from easy. At a moment in history marked by viral misinformation on topics of health, social, and civic import, it is clear our systems for effective public communication have broken down. Undoubtedly social and political factors are involved here, not simply barriers in communication technologies or poorly designed fact sheets. Nevertheless, an effective civic data communication infrastructure remains a necessary, even if not sufficient, component of any transparent and well-functioning democratic system. This infrastructure forms the foundation of an informed citizenry, productive public discourse, and, ultimately, intelligent policy decisions.
 
@@ -22,7 +22,7 @@ These insights will be used to inform a larger research initiative, undertaken w
 
 ## What we know about how lay people process statistics
 
-![person using tech](/static/img/posts/data-citizen3.jpg)
+![person using tech]({{ site.baseurl }}/static/img/posts/data-citizen3.jpg)
 
 To design a relevant information design product, it is vital to understand the perspective of the user. In this case, we are interested in understanding the way that US citizens engage with civic data dashboards and other related communication channels. A high-level trend across much of the research literature is that, unlike researchers, **lay people tend to be more highly influenced by cultural, emotional, and personal factors in their engagement and evaluation of data dashboards.** A study by Yuo Luo and Jiaying Zhao of the University of British Columbia, for example, noted that lay people can look at exactly the same data and have completely different conclusions based on their prior personal and/or culturally biased beliefs (["How to engage different audiences with the same graph?”](https://medium.com/multiple-views-visualization-research-explained/how-to-engage-different-audiences-with-the-same-graph-b904eb25e1c9)). In fact, those with different prior beliefs actually focused visual attention on different parts of the same graphical chart.
 
@@ -44,7 +44,7 @@ Numerous research case studies also indicate the prevalence of lack of standardi
 
 ## How we might improve
 
-![people around chart](/static/img/posts/data-citizen1.jpg)
+![people around chart]({{ site.baseurl }}/static/img/posts/data-citizen1.jpg)
 
 Condensing and conveying such potentially disparate economic, health, social or other information in a form intuitive and appealing to engaged members of the US public with varying levels of analytical background is not an easy task. Nevertheless, insights from case study research reveal that **user-centered design practices, prioritization of practical relevance, and compliance to best practices in usability can produce valuable results**. For example, a case study documenting the user-centered creation of a data tracking tool for policymaker accountability details how a focus on data related to policy maker promises empowered citizens to better evaluate their elected representatives (["Promise Tracker and Monitorial Citizenship"](http://www.ethanzuckerman.com/blog/2014/01/24/promise-tracker-and-monitorial-citizenship/) (blog post)).
 
