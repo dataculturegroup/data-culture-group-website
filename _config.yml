@@ -6,6 +6,8 @@ google_analytics: UA-XXXXXXXX-Y
 enableTags: true
 tagarray: []
 
+permalink: /:year/:month/:day/:title:output_ext
+
 collections:
   authors:
     output: true
@@ -23,10 +25,10 @@ share:
 
 urls:
     - text: About
-      url: /about/
+      url: about/
 
 url: "https://dataculturegroup.org"
-baseurl: "/data-culture-group-website"
+baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
