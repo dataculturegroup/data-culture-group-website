@@ -28,6 +28,7 @@ layout: default
       {% if forloop.first %}
           <h3>{{ post_year }}</h3>
           <div class="list-group">
+            <ul class="posts">
       {% endif %}
 
       {% if forloop.first == false %}
@@ -37,12 +38,12 @@ layout: default
           </div>
           <h3>{{ post_year }}</h3>
           <div class="list-group">
+            <ul class="posts">
         {% endif %}
       {% endif %}
-        <ul class="posts">
-          <li><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a> &raquo; <i><span>{{ post.date | date_to_string }}</span></i></li>
-        </ul>
+          {% include post_summary.html %}
       {% if forloop.last %}
+          </ul>
         </div>
       {% endif %}
     {% endfor %}
