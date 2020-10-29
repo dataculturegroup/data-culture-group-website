@@ -1,6 +1,7 @@
 <li>
   <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/static/img/posts/{{ post.thumbnail }}" /></a>
   <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-  <span class="byline">by {{ post.author }}, {{ post.date | date: "%B %-d, %Y" }}</span>
+  {% assign author_names = post.author | split: ',' %}
+  <span class="byline">by {% include author_names.html %} on {{ post.date | date: "%B %-d, %Y" }}</span>
   <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 290 }}</p>
 </li>

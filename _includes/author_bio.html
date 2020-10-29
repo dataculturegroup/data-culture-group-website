@@ -1,3 +1,5 @@
+{% assign trimmed_author_name = author_name | strip %}
+{% assign author = site.authors | where: 'name', trimmed_author_name | first %}
 <div class="author-bio">
   <div class="row">
     <div class="col-sm-2">
