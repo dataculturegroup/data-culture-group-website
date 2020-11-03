@@ -62,7 +62,12 @@ blockquote {
 
 /* Layout */
 .main-layout {
-  margin-top: 255px;
+  margin-top: 20px;
+}
+#playground {
+  margin-top: 60px;
+  height: 90px;
+  margin-bottom:  84px;
 }
 .sidebar-nav {
   margin: 5px 0 0 0;
@@ -210,24 +215,36 @@ div.post-content .btn-tags {
 /* Responsive Conditional */
 @media (max-width: 1200px) {
   .main-layout {
-    margin-top: 212px;
+    margin-top: 20px;
+  }
+  #playground {
+    margin-top: 47px;
+    height: 73px;
+    margin-bottom:  71px;
   }
 }
 @media (max-width: 992px) {
   .main-layout {
-    margin-top: 158px;
+    margin-top: 20px;
+  }
+  #playground {
+    margin-top: 27px;
+    height: 58px;
+    margin-bottom: 53px;
   }
 }
 @media (max-width: 768px) {
   div.col-sm-3 {
-    margin-top: 30px;
+    margin-top: 20px;
   }
   .main-layout {
     margin-top: 0px;
   }
   .sidebar-nav li {
     display: inline-block;
-
+  }
+  #playground {
+    height: 30px;
   }
 }
 
