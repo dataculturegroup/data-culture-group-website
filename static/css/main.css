@@ -283,6 +283,7 @@ div#content img {
 }
 .project img {
   border: 1px solid #dddddd;
+  margin-bottom: 10px;
 }
 .project h3 {
   margin: 0px 0px 10px 0px;
