@@ -1,7 +1,7 @@
 ---
 title: Librarians as "Civic Data Ambassadors" - revisiting a project
 date:  2020-11-02 00:09:00 -0500
-categories: [ "libraries", data-literacy", "civic-engagement" ]
+categories: [ "libraries", "data-literacy", "civic-engagement" ]
 thumbnail: "data-ambassadors-thumb.png"
 author: Dee Williams, Rahul Bhargava
 ---
