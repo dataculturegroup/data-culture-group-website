@@ -103,10 +103,11 @@ ul.posts li {
   min-height: 160px;
 }
 ul.posts li a img {
-  width: 150px;
+  width: 150px  !important;
   float: left;
   margin-right: 20px;
-  border: 1px solid #dddddd;padding: 10px;
+  border: 1px solid #dddddd;
+  padding: 10px;
 }
 ul.posts li strong {
   font-size: 20px;
@@ -135,18 +136,8 @@ img + em {
 
 
 /* Content */
-div.content pre {
-  background: #333333;
-  padding: 10px;
-  color: #FFF;
-  overflow-x: auto;
-  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
-  font-size: 12px;
-  border: none;
-}
-
 header img.logo {
-  max-width: 255px;
+  max-width: 255px !important;
 }
 
 footer {
@@ -156,6 +147,11 @@ footer {
 
 div.post-content .btn-tags {
   margin-bottom: 3px;
+}
+
+div#content img {
+  width: 100%;
+  border: 1px solid #dddddd;
 }
 
 /* Left column */
@@ -275,4 +271,24 @@ div.post-content .btn-tags {
 }
 .author-bio img {
   margin-bottom: 10px;
+}
+
+/* project list */
+.projects {
+
+}
+.project {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.project img {
+  border: 1px solid #dddddd;
+}
+.project h3 {
+  margin: 0px 0px 10px 0px;
+  font-weight: 700;
+  padding: 0px;
+}
+.project p {
+  font-style: italic;
 }

@@ -11,9 +11,9 @@ permalink: /:year/:month/:day/:title:output_ext
 collections:
   authors:
     output: true
-  project:
+  projects:
     output: true
-    permalink: /project/:path/
+    permalink: /projects/:path/
 
 social:
     - logo: "twitter-logo.png"
@@ -24,6 +24,8 @@ share:
   twitter_username: rahulbot
 
 urls:
+    - text: Projects
+      url: projects/
     - text: About
       url: about/
 
@@ -55,6 +57,12 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      permalink: /projects/:title:output_ext
   - scope:
       path: ""
     values:

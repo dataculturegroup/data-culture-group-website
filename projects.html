@@ -1,0 +1,13 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+The Data Culture is quite young - we launched in the fall of 2020. Keep an eye out for more projects coming soon!
+
+<div class="projects">
+{% for project in site.projects %}
+  {% include project_summary.html %}
+{% endfor %}
+</div>
