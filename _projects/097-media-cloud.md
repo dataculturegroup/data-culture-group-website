@@ -5,7 +5,7 @@ thumbnail: mediacloud-thumb.png
 slug: "media-cloud"
 ---
 
-![screnshot]({{ site.baseurl }}/static/img/projects/mediacloud.jpg)
+![screnshot of Explorer web tool]({{ site.baseurl }}/static/img/projects/mediacloud.jpg)
 
 Media Cloud is a set of tools and a database to support quantitative analysis of online news. Any one can use the suite of free tools to investigate media attention, language, and influence online.
 

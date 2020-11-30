@@ -5,7 +5,7 @@ thumbnail: creative-data-literacy-thumb.png
 slug: "creative-data-literacy"
 ---
 
-![screnshot]({{ site.baseurl }}/static/img/projects/data-culture-project.jpg)
+![screnshot of our website]({{ site.baseurl }}/static/img/projects/data-culture-project.jpg)
 
 Data is becoming more central to civic decision making every day. However, data literacy is most often introduced with technical tools and jargon, excluding many of those that are already marginalized in these settings. Building on an inclusive pedagogy, we've created a multi-lingual set of tools and activities that build data literacy, available online for free. We work with non-profits, local governments, newsrooms, libraries, and others.
 

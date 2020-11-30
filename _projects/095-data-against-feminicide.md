@@ -5,7 +5,7 @@ thumbnail: data-against-feminicide-thumb.jpg
 slug: "data-against-feminicide"
 ---
 
-![screnshot]({{ site.baseurl }}/static/img/projects/data-against-feminicide-thumb.jpg)
+![logo]({{ site.baseurl }}/static/img/projects/data-against-feminicide-thumb.jpg)
 
 Gender-related violence against women is a global problem. Efforts to prevent this often produce laws that are un-enforced, and even less work is done measure the impact and scope of the problem with concrete data. Activists, civil society organizations, journalists, and individual community members have stepped in to fill this gap. In many places they have build intensive processes based on published news to build databases of feminicides.
 
