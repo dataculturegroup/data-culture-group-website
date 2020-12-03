@@ -1,6 +1,6 @@
 ---
 title: What Can AR Do for Climate Change Communication?
-date:  2020-12-03 00:09:00 -0500
+date:  2020-12-02 00:09:00 -0500
 categories: [ "civic-engagement", "data-literacy", "augmented-reality" ]
 thumbnail: ar-climate-thumb.jpg
 author: Ballori Ghosh, Rahul Bhargava

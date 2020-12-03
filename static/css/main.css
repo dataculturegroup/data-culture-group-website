@@ -106,8 +106,7 @@ ul.posts li a img {
   width: 150px  !important;
   float: left;
   margin-right: 20px;
-  border: 1px solid #dddddd;
-  padding: 10px;
+  padding: 0px;
 }
 ul.posts li strong {
   font-size: 20px;
@@ -151,7 +150,7 @@ div.post-content .btn-tags {
 
 div#content img {
   width: 100%;
-  border: 1px solid #dddddd;
+  border: 1px solid #eeeeee;
 }
 
 /* Left column */
@@ -275,14 +274,13 @@ div#content img {
 
 /* project list */
 .projects {
-
+  margin-top: 20px;
 }
 .project {
   padding-top: 10px;
   padding-bottom: 30px;
 }
 .project img {
-  border: 1px solid #dddddd;
   margin-bottom: 10px;
 }
 .project h3 {
@@ -291,5 +289,4 @@ div#content img {
   padding: 0px;
 }
 .project p {
-  font-style: italic;
 }
