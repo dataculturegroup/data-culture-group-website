@@ -8,11 +8,16 @@ author: Ballori Ghosh, Rahul Bhargava
 
 AR has emerged as a popular approach to interacting with technology - creators are leveraging it for video games, educational experiences, live filters and more. We are motivated by this development to explore how AR is being used for pro-social communication. What can AR offer to things like communicating climate change data? What AR do to help motivate people to take action on personal, collective, or governmental challenges? This blog post shares what we have found so far, and what it suggests for a path forward.
 
+![google images matching "augmented reality climate change"]({{ site.baseurl }}/static/img/posts/ar-climate-0.jpg)
+*Google Image search results matching "augmented reality climate change"*
+
+
 ## An Established Technology
 
 Hundreds of millions now have the ability to run AR apps in their pocket; it is an established technology with a vast user base. A dominant form of use has turned out to be in the world of filters, thanks to social media and our collective obsession with selfies! SnapChat and Instagram are perhaps the best example of this. Their platforms have popularized AR filters.
 
 ![screenshot of 2 Snapchat filters]({{ site.baseurl }}/static/img/posts/ar-climate-1.jpg)
+*A few examples of filters on Instagram and Snapchat.*
 
 AR filters such as these are massively popular, but are mostly used for entertainment purposes. In parallel to this growth we've seen rapid development in the tool space for creating these AR experiences - with [Apple's ARKit](https://developer.apple.com/augmented-reality/), [Google’s ARCore](https://developers.google.com/ar), and higher level tools like [Snapchat's Lens Studio](https://lensstudio.snapchat.com), [Facebook’s Spark AR Studio](https://sparkar.facebook.com/ar-studio/), and [others](https://arvrjourney.com/top-10-ar-tools-for-app-development-6dab56a833db). The barrier to creating AR experiences is rapidly falling.
 
@@ -33,6 +38,7 @@ Here's a quick run down of some of the projects we came across in our survey of 
 A standard approach of data visualization is to "make visible the invisible". We came across a set of projects that attempt to do this, showcasing the climate change happening around us already.
 
 ![Screenshots from the AiR research app]({{ site.baseurl }}/static/img/posts/ar-climate-2.jpg)
+*Screenshots from the AiR research app*
 
 We also found a number of academic researchers are investigating how to best use AR to show pollution levels. ["AiR -- An Augmented Reality Application for Visualizing Air Pollution" from Matthews, et al](https://www.researchgate.net/publication/341899389_AiR_--_An_Augmented_Reality_Application_for_Visualizing_Air_Pollution) overlays your view with virtual smog based on local pollution levels. ["Aire: visualize air quality" from Torres, et al last year](https://dl.acm.org/doi/10.1145/3305365.3329869) similarly adds moving virtual pollution particulates on top of a live camera view via AR.
 
@@ -54,6 +60,7 @@ Here is a quick sampling of the apps we found that showed sea level rise:
 In the US at least, due to the lack of national action on climate change, cities have become a central organizing unit for our response. This has led to large, well-funded efforts like the [Resilient Cities Network](https://resilientcitiesnetwork.org). Accordingly, we saw a number of AR apps that focused on climate-proofing the city.
 
 ![Screenshot of Earthwatch's app]({{ site.baseurl }}/static/img/posts/ar-climate-3.jpg)
+*Screenshot of Earthwatch's app*
 
 Earthwatch Europe took an approach similar to SimCity in building an AR app that [allows uses to try build a "climate proof" city](https://vrnation.tv/earthwatch-europe-ar-app-visualizes-a-climate-proof-city/) by altering the makeup of land use, water supply, drainage, and more. The Klikovand task force worked with others to build [an AR app that allows users to place green terrain](https://www.larapp.dk) in their built environment to provoke conversation about long-term climate resilience and day-to-day public works decisions. Artist Juan Carlos Gallo and others [created an AR-connected mural in Miami](https://www.miamiherald.com/news/local/environment/article198488639.html) to warn about climate change danger to localities.
 
@@ -64,6 +71,7 @@ After exploring this space of climate change AR experiences, we are excited beca
 We need to experiment and study more. Perhaps AR can actually be an effective tool to help us communicate and motivate action to the dire threats of climate change that are all around us. We just don't know yet. Our next steps on this project are to audit the rapid prototyping tools we mentioned earlier to see what their design affordances are.
 
 ![A screenshot of using Snapchat's Lens Studio - Ballori's new look]({{ site.baseurl }}/static/img/posts/ar-climate-4.jpg)
+*A screenshot of using Spark AR Studio- Ballori's new look!*
 
 After that we're hoping to build a simple experiment to study how people respond to AR experiences that are built around climate change data. Our key questions involve comparing AR experiences to other techniques like flat data visualization, infographics, or journalism-like narratives. We want to investigate question such as:
 * Does AR communicate the threat more effectively?
