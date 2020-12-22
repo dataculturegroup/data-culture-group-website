@@ -10,12 +10,17 @@
     <div class="col-sm-10">
        <em><a href="{{ site.baseurl }}{{author.url}}">{{author.name}}</a></em>
        <p>{{ author.bio }}</p>
+      <p><small>
        {% if author.email %}
-         <p><a href="mailto:{{author.email}}">{{author.email}}</a></p>
+         📨 - <a href="mailto:{{author.email}}">{{author.email}}</a><br/>
        {% endif %}
        {% if author.twitter %}
-         <p><a href="https://twitter.com/{{author.twitter}}">@{{author.twitter}}</a></p>
+         🐦 - <a href="https://twitter.com/{{author.twitter}}">@{{author.twitter}}</a><br/>
        {% endif %}
+       {% if author.website %}
+         🌎 - <a href="{{author.website}}">{{author.website | replace("https://", "") }}</a><br/>
+       {% endif %}
+      </small></p>
     </div>
   </div>
 </div>

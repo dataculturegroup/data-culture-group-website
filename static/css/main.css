@@ -270,6 +270,7 @@ div#content img {
 }
 .author-bio img {
   margin-bottom: 10px;
+  max-width: 200px;
 }
 
 /* project list */
