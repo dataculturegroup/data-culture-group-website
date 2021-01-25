@@ -18,6 +18,11 @@ Data is becoming more central to civic decision making every day. However, data 
 
 * Caterine D'Ignazio - [Data + Feminism Lab @ MIT](https://dataplusfeminism.mit.edu)
 
+### Recent Related Blog Posts
+* [Sketching Together Online](/2020/12/08/sketching-online-together.html)
+* [Librarians as "Civic Data Ambassadors" - revisiting a project](/2020/11/02/librarians-data-ambassadors.html)
+* [Paper: Pandemic Pedagogy @ IEEE Vis 2020](/2020/10/20/pandemic-pedagogy.html)
+
 ### Academic Publications & Presentations
 
 * Bhargava, R. (2020). [Pandemic Pedagogy: Taking Data-Viz Learning Online]({{ site.baseurl }}/static/files/Pandemic Pedagogy - Bhargava - final.pdf). Visualization Activities Workshop. Presented at the IEEE Vis Conference, Utah, USA.

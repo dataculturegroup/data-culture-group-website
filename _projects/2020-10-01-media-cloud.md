@@ -17,7 +17,11 @@ Media Cloud is a set of tools and a database to support quantitative analysis of
 ### Collaborators
 
 * [The Institute for Digital Public Infrastructure @ UMass Amherst](http://publicinfrastructure.org)
-* [Berkman Klein Center for Internet and Society at Harvard University](https://cyber.harvard.edu)
+* [Berkman Klein Center for Internet and Society @ Harvard University](https://cyber.harvard.edu)
+
+### Recent Related Blog Posts
+* [Swiped: How dating apps harm marginalized communities](2021/01/13/virtual-dating.html)
+* [Pandemic news coverage is falling, but cases keep rising](2020/09/21/pandemic-state-news.html)
 
 ### Publications
 
