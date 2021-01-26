@@ -12,13 +12,16 @@
        <p>{{ author.bio }}</p>
       <p><small>
        {% if author.email %}
-         📨 - <a href="mailto:{{author.email}}">{{author.email}}</a><br/>
+         📨 - <a href="mailto:{{author.email}}">{{author.email}}</a> on email<br/>
        {% endif %}
        {% if author.twitter %}
-         🐦 - <a href="https://twitter.com/{{author.twitter}}">@{{author.twitter}}</a><br/>
+         🐦 - <a href="https://twitter.com/{{author.twitter}}">@{{author.twitter}}</a> on Twitter<br/>
+       {% endif %}
+       {% if author.instagram %}
+         📷 - <a href="https://www.instagram.com/{{author.twitter}}">@{{author.instagram}}</a> on Instagram<br/>
        {% endif %}
        {% if author.website %}
-         🌎 - <a href="{{author.website}}">{{author.website | replace("https://", "") }}</a><br/>
+         🌎 - <a href="{{author.website}}">{{author.website | replace("https://", "") }}</a> on the web<br/>
        {% endif %}
       </small></p>
     </div>

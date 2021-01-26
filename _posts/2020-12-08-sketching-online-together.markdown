@@ -1,7 +1,7 @@
 ---
 title: Sketching Together Online
 date:  2020-12-08 00:09:00 -0500
-categories: [ "data-literacy" ]
+categories: [ "data-literacy", "design" ]
 thumbnail: sketch-tool-thumb.png
 author: Dee Williams, Rahul Bhargava
 ---

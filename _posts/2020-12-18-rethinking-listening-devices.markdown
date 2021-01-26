@@ -1,7 +1,7 @@
 ---
 title: Rethinking Listening Devices
 date:  2020-12-18 00:09:00 -0500
-categories: [ "internet-of-things" ]
+categories: [ "internet-of-things", "design"]
 thumbnail: listening-devices-thumb.png
 author: Eric Lord, Rahul Bhargava
 ---
