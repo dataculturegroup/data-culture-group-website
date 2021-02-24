@@ -28,6 +28,8 @@ urls:
       url: projects/
     - text: About
       url: about/
+    - text: Code
+      url: https://github.com/orgs/dataculturegroup/
 
 url: "https://dataculturegroup.org"
 baseurl: ""

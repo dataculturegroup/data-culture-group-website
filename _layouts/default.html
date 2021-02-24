@@ -117,7 +117,11 @@ layout: compress
             <ul class="sidebar-nav">
               <li><a href="{{ site.baseurl }}/">Home</a></li>
               {% for i in site.urls %}
-                <li><a href="{{ site.baseurl }}/{{ i.url }}">{{ i.text }}</a></li>
+                {% if i.url contains "http" %}
+                  <li><a href="{{ i.url }}">{{ i.text }}</a></li>
+                {% else %}
+                  <li><a href="{{ site.baseurl }}/{{ i.url }}">{{ i.text }}</a></li>
+                {% endif %}
               {% endfor %}
             </ul>
           </div>
