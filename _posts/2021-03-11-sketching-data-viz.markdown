@@ -3,7 +3,7 @@ title: "How and Why We Sketch When Visualizing Data"
 date:  2021-03-11 00:09:00 -0500
 categories: [ "data-literacy" ]
 thumbnail: sketching-thumb.jpg
-author: Rahul Bhargava
+author: Dee Williams, Rahul Bhargava
 ---
 
 If you’re like us, at some point in your early education you decided you couldn’t draw. Your doodles, like ours, didn’t look like you wanted them to. For many, this disappointment can persist into adult life. As researchers into how people learn data visualization, we’re here to tell you that it’s OK — stick figures are fine! You can learn to sketch your data stories; in fact, you’ll see that research tells us that sketching is critical for working in teams and for breaking through “visualizers’ block.”
