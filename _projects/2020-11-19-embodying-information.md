@@ -11,10 +11,16 @@ Data is historically considered a tool for analytic support through visual inter
 
 ### Recent Related Blog Posts
 
+* [What does Data Theatre Look Like? — Lessons from Our First Workshops](/2021/04/16/data-theatre-workshops.html)
+* [Data Skits - Learning From Participatory Theatre](/2020/12/03/data-skits-background.html)
 * [Talk - The Physical Life of Data?](/2021/01/24/physical-life-of-data-talk.html)
 * [What happens when we dance out data?](https://medium.com/@rahulbot/what-happens-when-we-dance-our-data-be55512d0b7d)
 
 ### Collaborators
 
-* [Laura Perovich](https://camd.northeastern.edu/faculty/laura-perovich/)
-* Victoria Palacin
+* [Laura Perovich](https://camd.northeastern.edu/faculty/laura-perovich/) - Assistant Professor, Art + Design, Northeastern University
+* Victoria Palacin - Post-doc, University of Helsinki
+* Ilya Vidrin - Postdoctoral Associate, Theatre, Northeastern University
+* Nicole Zizzi - Masters student, Architecture, Northeastern University
+* Jesse Hinson - Associate Teaching Professor, Theatre, Northeastern University
+* Amanda Brea - Student, Business Administration & Theatre, Northeastern University
