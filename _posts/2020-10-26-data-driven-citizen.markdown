@@ -1,7 +1,7 @@
 ---
 title:  "The Data-Driven Citizen"
 date:   2020-10-26 00:09:00 -0500
-categories: [ "data-literacy", "civic-engagement", "design" ]
+categories: [ "data-literacy", "civic-engagement", "design", "visualization" ]
 thumbnail: "data-citizen1.jpg"
 author: Dana Bullister
 ---

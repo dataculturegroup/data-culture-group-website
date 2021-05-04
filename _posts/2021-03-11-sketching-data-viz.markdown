@@ -1,7 +1,7 @@
 ---
 title: "How and Why We Sketch When Visualizing Data"
 date:  2021-03-11 00:09:00 -0500
-categories: [ "data-literacy" ]
+categories: [ "data-literacy", "visualization" ]
 thumbnail: sketching-thumb.jpg
 author: Dee Williams, Rahul Bhargava
 ---

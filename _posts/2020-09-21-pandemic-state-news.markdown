@@ -1,7 +1,7 @@
 ---
 title:  "Pandemic news coverage is falling, but cases keep rising"
 date:   2020-09-21 00:09:00 -0500
-categories: [ "media-analysis" ]
+categories: [ "media-analysis", "visualization" ]
 thumbnail: "attention-top-online.png"
 author: Rahul Bhargava
 ---
