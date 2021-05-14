@@ -124,13 +124,13 @@ ul.posts li strong {
 }
 
 img + em {
-  font-size: 14px;
+  font-size: 12px;
   display:block;
-  margin: 10px 0px;
+  margin: 0px 0px;
   font-style: italic;
-  line-height: 16px;
-  background-color: #f0f0f0;
-  padding: 15px;
+  line-height: 14px;
+  color: #999999;
+  padding: 10px;
 }
 
 

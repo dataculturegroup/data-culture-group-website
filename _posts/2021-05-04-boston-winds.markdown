@@ -1,6 +1,6 @@
 ---
 title: Is it windier, or is it just me?
-date:  2021-05-04 00:09:00 -0500
+date: 2021-05-04 00:09:00 -0500
 categories: [ "design", "visualization" ]
 thumbnail: wind-thumb.jpg
 author: Rahul Bhargava

@@ -11,6 +11,7 @@ Data is historically considered a tool for analytic support through visual inter
 
 ### Recent Related Blog Posts
 
+* [Designing Data Theatre - Learnings From Experts](http://localhost:4000/2021/05/14/data-theatre-interviews.html)
 * [What does Data Theatre Look Like? — Lessons from Our First Workshops](/2021/04/16/data-theatre-workshops.html)
 * [Data Skits - Learning From Participatory Theatre](/2020/12/03/data-skits-background.html)
 * [Talk - The Physical Life of Data?](/2021/01/24/physical-life-of-data-talk.html)
