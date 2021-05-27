@@ -2,7 +2,7 @@
 title: 2020 - Year of the Data Sculpture?
 date: 2021-05-27 00:09:00 -0500
 categories: [ "data-literacy", "design", "visualization", "civic-engagement" ]
-thumbnail: 2020-data-sculpture-thumb.jpg
+thumbnail: 2020-sculptures-thumb.jpg
 author: Rahul Bhargava
 ---
 
