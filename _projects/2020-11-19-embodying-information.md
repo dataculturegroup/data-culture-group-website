@@ -7,7 +7,7 @@ slug: "embodying-information"
 
 ![people moving]({{ site.baseurl }}/static/img/projects/embodied-info-thumb.png)
 
-Data is historically considered a tool for analytic support through visual interpretation, overlooking the potential of embodied representations. We explore dance and theater as paths to creating new understandings of information and bringing people together around data to increase collective empowerment and engagement. Our "embodying information" approach is based on our initial “data moves” explorations with Victoria Palacin and Rosalie Norris. “Data dance” workshops investigate how somatic invitations might engage professionals and novices alike in formal and affective modes of understanding and interpreting information through movement. "Data skit" workshops leverage participatory theater to investigate how people relate to data when asked to perform some story they find in it. These parallel approaches are centered around the idea of creating embodied invitations that build on existing practices in their respective domains - dance and theatre. We aim to move beyond traditional flat visualizations and leverage experiential modes of understanding to build new modes of representation that empower individuals and communities.
+Data is historically considered a tool for analytic support through visual interpretation, overlooking the potential of embodied representations. We explore dance and theater as paths to creating new understandings of information and bringing people together around data to increase collective empowerment and engagement. Our "embodying information" approach is based on our initial “data moves” explorations with Victoria Palacin and Rosalie Norris. “Data dance” workshops investigate how somatic invitations might engage professionals and novices alike in formal and affective modes of understanding and interpreting information through movement. "Data theatre" workshops leverage participatory theater to investigate how people relate to data when asked to perform some story they find in it. These parallel approaches are centered around the idea of creating embodied invitations that build on existing practices in their respective domains - dance and theatre. We aim to move beyond traditional flat visualizations and leverage experiential modes of understanding to build new modes of representation that empower individuals and communities.
 
 ### Recent Related Blog Posts
 
@@ -20,8 +20,12 @@ Data is historically considered a tool for analytic support through visual inter
 ### Collaborators
 
 * [Laura Perovich](https://camd.northeastern.edu/faculty/laura-perovich/) - Assistant Professor, Art + Design, Northeastern University
-* Victoria Palacin - Post-doc, University of Helsinki
-* Ilya Vidrin - Postdoctoral Associate, Theatre, Northeastern University
-* Nicole Zizzi - Masters student, Architecture, Northeastern University
-* Jesse Hinson - Associate Teaching Professor, Theatre, Northeastern University
+* [Victoria Palacin](https://www.mavipasi.com) - Post-doc, University of Helsinki
+* [Ilya Vidrin](https://www.ilyavidrin.com) - Postdoctoral Associate, Theatre, Northeastern University
+* [Nicole Zizzi](https://www.nicolezizzi.com) - Masters student, Architecture, Northeastern University
+* [Jesse Hinson](https://camd.northeastern.edu/faculty/jesse-hinson/) - Associate Teaching Professor, Theatre, Northeastern University
 * Amanda Brea - Student, Business Administration & Theatre, Northeastern University
+
+### Supporters
+
+This work has been supported by funds from the Northeastern University Cluster Seed Grant and the [Co-Lab for Data Impact](https://camd.northeastern.edu/research-scholarship-creative-practice/co-laboratory-for-data-impact/).
