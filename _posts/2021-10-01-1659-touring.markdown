@@ -1,0 +1,25 @@
+---
+title: Advocating for Food Security with a Data Sculpture
+date: 2021-10-01 00:09:00 -0500
+categories: [ "data-literacy", "design", "visualization", "civic-engagement" ]
+thumbnail: 1659-sculpture-thumb.jpg
+author: Rahul Bhargava
+---
+
+The pandemic has affected so many aspects of our lives, amplifying disparities and challenges that already existed. For far too many households simply having access to enough food to eat is a daily challenge. During the early months of the COVID pandemic, an average of 1,659 new households applied for SNAP benefits every DAY in Massachusetts. My wife Emily and I created a data sculpture to bring attention and action to this problem - titled "1,659". It was inspired by that number — each of the 1,659 households is represented by one knife, spoon, or fork. The pandemic is slowing here, but these families and others facing food insecurity still struggle to put food on their tables.
+
+![photo of table made out of cutlery at Northeastern]({{ site.baseurl }}/static/img/posts/1659-table-at-nu.jpg)
+
+This summer and fall our sculpture has been touring various sites across New England - urban farms, city halls, university campuses, and arts galleries. At each stop we've engaged with fascinating people and had compelling conversations into the how and why of food insecurity.
+
+Sometimes people come to the table, learn about SNAP, and are curious if they are qualified to enroll in it. At sites like the Revere Farmer's Market staff is trained to help people get over the paperwork of the application process in multiple languages - they can take action that very day.
+
+![photo of table made out of cutlery, showcasing central decorative circle of welded spoons]({{ site.baseurl }}/static/img/posts/1659-table-closeup.jpg)
+
+Other times we end up talking about the scale of the problem before and during the pandemic. Those numbers are bigger and harder to think about, but spur many to ask about how they can get involved in helping. At sites like Northeastern University, there are groups on-campus working with local organizations that welcome volunteers and donations.
+
+In other situations people wonder about the scale of the problem in their area. In a space like the W Gallery in Wayland, a generally affluent suburb of Boston, visitors are often curious about how the problem touches them and their community. In those settings the need is often hidden, something faced by "others" that somehow don't count as community members in some eyes.
+
+Across New England, hunger continues to a problem for far too many in our communities. This piece attempts to pull people into that issue with the data, but using the language of the arts in public space. Its beauty provokes, hopefully spurring questions, understanding, and action.
+
+Visit the [1,659 micro-site](/1659/) to learn more about the sculpture, the team behind it, and a schedule of where you can see it. Follow Emily's work [on her Instagram - @studio_b63](https://www.instagram.com/studio_b63/).

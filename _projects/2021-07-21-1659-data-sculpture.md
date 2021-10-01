@@ -9,6 +9,10 @@ The pandemic has affected so many aspects of our lives, amplifying disparities a
 
 ![photo of table made out of cutlery at an urban farm]({{ site.baseurl }}/static/img/projects/1659-table.jpg)
 
+### Recent Related Blog Posts
+
+* [Advocating for Food Security with a Data Sculpture](/2021/10/01/1659-touring.html)
+
 ### Collaborators
 
 * [Emily Bhargava](https://home.connectionlab.org/emily-bhargava/) - Director, Connection Lab
