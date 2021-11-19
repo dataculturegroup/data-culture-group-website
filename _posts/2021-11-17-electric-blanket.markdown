@@ -34,11 +34,14 @@ The MIT team had a good design for the project overall, but had a few components
 
 Luckily, I have some experience with heating components - a few years ago I built a pair of heated earmuffs for my wife as a birthday present. After digging around my workshop I laid out a new circuit with scrap parts I had here. I found an old RFduino that could be a smaller brain, a push button that Alex could use, and properly sized wires for the current (among other things). It's a joy to use up old parts I've had lying around just waiting for a project!
 
-![blanket on my lap with small controller on top]({{ site.baseurl }}/static/img/posts/alex-blanket-lap.jpg)
+![blanket on Alex's with small controller on top]({{ site.baseurl }}/static/img/posts/alex-blanket-controller.jpg)
 *The closed up blanket and controller box*
 
 Knowing Alex enjoys the cold months outdoors, I added in some weatherproof wires and stuck the controller in a waterproof housing too. Add in some hot-glue to hold it all together and we had a functioning blanket! You can check out [the full parts list, circuit schematic, and code on GitHub](https://github.com/dataculturegroup/warming-blanket).
 
 ## Field Testing
+
+![man in wheelchair with blanket on top of him]({{ site.baseurl }}/static/img/posts/alex-blanket-chair.jpg)
+*Alex with the blanket, ready for an outing!*
 
 With the newly wired blanket working, Alex took it up to Maine for a trip to test it out in the wild. The overall results are promising - it held together, didn't electrocute anyone, and kept him warm! We need to redo some of the wires and things to make it easier to use and position on his lap, but overall this little project was a success!
