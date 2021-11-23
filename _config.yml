@@ -41,6 +41,9 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
 
+kramdown:
+  syntax_highlighter: rouge
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]

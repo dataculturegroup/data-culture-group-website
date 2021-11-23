@@ -1,7 +1,7 @@
 ---
 title: "Musical Mosaics: a computational design prototype"
 date:  2021-02-01 00:09:00 -0500
-categories: [ "design", "visualization" ]
+categories: [ "design", "visualization", "software" ]
 thumbnail: musical-mosaics-thumb.png
 author: Rahul Bhargava, Emily Bhargava
 ---
