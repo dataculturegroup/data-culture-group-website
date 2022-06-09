@@ -1,12 +1,12 @@
 ---
-title: Upcombing Talk at C+J'22 Conference
+title: Upcoming Talk at C+J'22 Conference
 date: 2022-06-08 00:09:00 -0500
-categories: [ "media-analysis", "publications" ]
+categories: [ "media-analysis", "publications", "software" ]
 thumbnail: CplusJ22paper-thumb.png
 author: Rahul Bhargava
 ---
 
-I'll be speaking at the 2022 Computation + Journalism conference, hosted at Columbia University from June 9-11. I'll be presenting a paper on the software architecture supporting the [Data Against Feminicide project](https://dataculture.northeastern.edu/projects/data-against-feminicide.html).
+I'll be speaking at the [2022 Computation + Journalism conference](https://cj2022.brown.columbia.edu), hosted at Columbia University from June 9-11. I'll be presenting a paper on the software architecture supporting the [Data Against Feminicide project](https://dataculture.northeastern.edu/projects/data-against-feminicide.html).
 
 ## News as Data for Activists: a case study in feminicide counterdata production
 
