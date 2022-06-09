@@ -1,0 +1,19 @@
+---
+title: Upcombing Talk at C+J'22 Conference
+date: 2022-06-08 00:09:00 -0500
+categories: [ "media-analysis", "publications" ]
+thumbnail: CplusJ22paper-thumb.png
+author: Rahul Bhargava
+---
+
+I'll be speaking at the 2022 Computation + Journalism conference, hosted at Columbia University from June 9-11. I'll be presenting a paper on the software architecture supporting the [Data Against Feminicide project](https://dataculture.northeastern.edu/projects/data-against-feminicide.html).
+
+## News as Data for Activists: a case study in feminicide counterdata production
+
+_Rahul Bhargava, Harini Suresh, Amelia Lee Doğan, Wonyoung So, Helena Suárez Val, Silvana Fumega, and Catherine D'Ignazio_
+
+### Paper abstract
+
+News articles are an important source of data for recording and aggregating a range of social phenomena. In this paper, we ask if and how technology can support civil society activists who challenge asymmetrical power relations by producing counterdata—datasets missing from mainstream counting institutions. We consider a case study centered on activists who monitor feminicide, or the lethal outcome of gender-related violence, often using news as a main source to identify and compile databases of incidents. We describe a system that we collaboratively built with activists, aimed at relieving some of the emotional and time-intensive labor this work entails. The system discovers relevant news stories on multiple systems, classifies them based on machine learning models, clusters them into groups of stories about the same incident, and delivers regular email alerts to users. Currently, 26 groups across different geographical regions are using the system, and groups who broadly monitor feminicide report that they are regularly discovering new cases. We also reflect on the short-comings of the pilot system for groups with more specific, intersectional monitoring focuses, and the implications of biased narratives or under-reporting on the system’s design. This case study contributes a grounded example of computational journalism built in collaboration with, and in service of, activists working on critical human rights issues.
+
+***[Download the conference paper]({{ site.baseurl }}/static/files/C_J22_Data_Against_Feminicide_Paper.pdf)***
