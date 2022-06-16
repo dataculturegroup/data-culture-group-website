@@ -1,5 +1,5 @@
 ---
-title: Upcoming Talk at C+J'22 Conference: News as Data for Activists
+title: "Upcoming Talk at C+J'22 Conference: News as Data for Activists"
 date: 2022-06-08 00:09:00 -0500
 categories: [ "media-analysis", "publications", "software" ]
 thumbnail: CplusJ22paper-thumb.png

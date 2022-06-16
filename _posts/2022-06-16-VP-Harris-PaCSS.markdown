@@ -1,7 +1,7 @@
 ---
-title: Upcoming talk at PaCSS'22: Partisan Media Coverage and Intersectionality
+title: "Upcoming talk at PaCSS'22: Partisan Media Coverage and Intersectionality"
 date: 2022-06-16 00:09:00 -0500
-categories: [ "media-analysis", "publicatinos" ]
+categories: [ "media-analysis", "publications" ]
 thumbnail: vp-harris-pacss.png
 author: Rahul Bhargava
 ---
