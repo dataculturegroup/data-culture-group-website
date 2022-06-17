@@ -20,13 +20,14 @@ Media Cloud is a set of tools and a database to support quantitative analysis of
 * [Berkman Klein Center for Internet and Society @ Harvard University](https://cyber.harvard.edu)
 
 ### Recent Related Blog Posts
+* [Upcoming talk at PaCSS'22: Partisan Media Coverage and Intersectionality](2022/06/16/CP-Harris-PaCSS.html)
+* [ICA'22 Poster: Politicization and Polarization of Pandemic News Coverage](2022/05/26/ica-covid-poster.html)
 * [Swiped: How dating apps harm marginalized communities](2021/01/13/virtual-dating.html)
 * [Pandemic news coverage is falling, but cases keep rising](2020/09/21/pandemic-state-news.html)
 
 ### Publications
 
+* Roberts, H., Bhargava, R., Valiukas, L., Jen, D., Malik, M., Bishop, C., Ndulue, E., Dave, A., Clark, J., Etling, B., Faris, R., Shah, A., Rubinovitz, J., Hope, A., D’Ignazio, C., Bermejo, F., Benkler, Y., Zuckerman, E. (2021). [Media Cloud: Massive Open Source Collection of Global News on the Open Web](http://arxiv.org/abs/2104.03702). Presented at the 2021 International Conference on Web and Social Media (ICWSM’21), Atlanta, Georgia, USA.
 * Bhargava, R. & Bishop, C. (2020). [Mapping and Visualizing News Images for Media Research](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_39.pdf). (Boston, MA, 2020).
-
 * Bhargava, R., Dave, A., Papakyriakopoulos, O. (2020). Investigating Attention and Influence Online with Media Cloud. Tutorial presented at the 14th International Conference on Web and Social Media, Atlanta, GA, USA.
-
 * Zuckerman, E., Matias, J., Bhargava, R., Bermejo, F., & Ko, A. (2019) [Whose Death Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in Police Confrontations, 2013–2016](https://ijoc.org/index.php/ijoc/article/view/8782). International Journal of Communication. 13, 27.

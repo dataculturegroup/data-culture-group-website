@@ -26,6 +26,8 @@ Data is becoming more central to civic decision making every day. However, data 
 
 ### Academic Publications & Presentations
 
+* Bhargava, R., Williams, D., & D’Ignazio, C. (2021). Sketching to Learn: An Analysis of Work by Novice Data Visualization Learners. Proceedings of IEEE Vis 2021 (Short Paper).
+* Bhargava, R. & D’Ignazio, C. (2021). [Teaching Data Journalism in a World of Tool and Tech Overload](https://doi.org/10.1145/3462741.3466660). Proceedings of the 13th ACM Web Science Conference 2021 (WebSci ’21 Companion). Southampton, United Kingdom.
 * Bhargava, R. (2020). [Pandemic Pedagogy: Taking Data-Viz Learning Online]({{ site.baseurl }}/static/files/Pandemic Pedagogy - Bhargava - final.pdf). Visualization Activities Workshop. Presented at the IEEE Vis Conference, Utah, USA.
 * D’Ignazio, C., & Bhargava, R. (2020). Data Visualization Literacy: A Feminist Starting Point. In M. Engebretsen & H. Kennedy (Eds.), [Data Visualization in Society](https://www.jstor.org/stable/j.ctvzgb8c7). Amsterdam, Netherlands: Amsterdam University Press.
 * Bhargava, R. (2019). Data Literacy. In R. Hobbs & P. Mihailidis (Eds.), [International Encyclopedia of Media Literacy Education](http://onlinelibrary.wiley.com/doi/10.1002/9781118978238.ieml0049/full). Hoboken, NJ: Wiley-Blackwell.

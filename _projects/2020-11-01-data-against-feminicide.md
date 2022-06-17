@@ -15,6 +15,8 @@ Our contribution to the overall project focuses on integration with the [Media C
 
 ### Related Posts
 
+* [Paper Presentation at ACM Conference on Fairness, Accountability, and Transparency](/2022/06/21/participatory-ml-facct-22)
+* [Panel Talk @ Computation + Journalis 2022 Conference](/2022/06/08/c-plus-j-2022)
 * [Panel Talk @ the NULab 2021 Conference](/2021/03/25/good-data-panel.html)
 
 ### Collaborators
