@@ -1,6 +1,6 @@
 ---
 title: "Upcoming AMC FAccT Talk: Towards Intersectional Feminist and Participatory ML"
-date: 2022-06-21 00:09:00 -0500
+date: 2022-06-20 00:09:00 -0500
 categories: [ "media-analysis", "publications", "software" ]
 thumbnail: facct-22-thumb.png
 author: Rahul Bhargava
