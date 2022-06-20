@@ -8,6 +8,9 @@ author: Dani Roytburg
 
 Computers are good at processing large amounts of information, but bad at intuiting what that information actually is. For an ongoing research project looking at mentions of food in online media, we’re trying to help computers get better at recognizing entities in unstructured text. Given the text of an arbitrary webpage or social media post, how successfully can we get a computer to pull out all the words that are food?
 
+![screenshot of text from a Bon Appetit article with food words outlined in red]({{ site.baseurl }}/static/img/posts/ner-food-highlights.png)
+*How do we recognize foods in texts? source: Bon Appetit*
+
 The term “named entity recognition” describes a set of algorithms designed to adapt computational language models to understanding unique classes of information. As a subset of natural language processing (NLP), the goal of named entity recognition is to assign unique values to words and attribute some meaning to them. This contrasts with most other parts of the NLP pipeline, which assess generalized, syntax-related structures like part of speech and dependencies. The focus of this blog will be on how named entity recognition and adjacent strategies can form structured categories for masses of unstructured data sourced from food-related content. Within computational linguistics, a variety of approaches have formed to optimize the extraction of this sort of information.
 
 ## Technical Approaches to Named Entity Recognition
