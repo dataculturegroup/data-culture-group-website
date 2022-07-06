@@ -1,6 +1,6 @@
 ---
 title: "New Paper: Taking Data Feminism to School"
-date: 2022-07-12 00:09:00 -0500
+date: 2022-07-05 00:09:00 -0500
 categories: [ "data-literacy", "publications", "design" ]
 thumbnail: taking-df-to-school-thumb.png
 author: Rahul Bhargava
