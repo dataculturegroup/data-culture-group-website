@@ -16,9 +16,12 @@ collections:
     permalink: /projects/:path/
 
 social:
+    - logo: "mastodon-logo.png"
+      link: "https://vis.social/@rahulbot"
+      name: "Mastodon"
     - logo: "twitter-logo.png"
       link: "https://twitter.com/rahulbot"
-      name: "twitter"
+      name: "Twitter"
 
 share:
   twitter_username: rahulbot
