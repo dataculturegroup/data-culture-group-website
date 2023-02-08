@@ -2,7 +2,7 @@
 title: "Digital Storytelling to Support Connective Journalism"
 date: 2023-02-08 00:09:00 -0500
 categories: [ "journalism", "civic-engagement", "design" ]
-thumbnail: .png
+thumbnail: ourcup-2023-thumb.jpg
 author: Rahul Bhargava
 ---
 
@@ -45,3 +45,5 @@ This piece served as a "thing to think with" for me, a chance to explore what a 
 I'll keep looking for other people playing in this space, and the toys they are building. Hopefully we can continue to innovate how and why we build digital stories. There's more to explore, and we need to think harder, in order to flesh out how approaches to digital storytelilng can support the important connective role journalism plays.
 
 _Thanks to my colleague Fernando Bermejo for advice on an early draft of this piece._
+
+*Originally published on the [StoryBench blog](https://www.storybench.org/digital-storytelling-to-support-connective-journalism/).*
