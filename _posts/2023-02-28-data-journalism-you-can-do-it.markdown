@@ -1,6 +1,6 @@
 ---
 title: "Data journalism? You can do it."
-date: 2023-02-28 00:08:30 -0500
+date: 2023-02-28 00:08:31 -0500
 categories: [ "journalism", "data-literacy" ]
 thumbnail: data-journalism-skillz-thumb.jpg
 author: Rahul Bhargava
