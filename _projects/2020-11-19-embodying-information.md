@@ -9,6 +9,10 @@ slug: "embodying-information"
 
 Data is historically considered a tool for analytic support through visual interpretation, overlooking the potential of embodied representations. We explore dance and theater as paths to creating new understandings of information and bringing people together around data to increase collective empowerment and engagement. Our "embodying information" approach is based on our initial “data moves” explorations with Victoria Palacin and Rosalie Norris. “Data dance” workshops investigate how somatic invitations might engage professionals and novices alike in formal and affective modes of understanding and interpreting information through movement. "Data theatre" workshops leverage participatory theater to investigate how people relate to data when asked to perform some story they find in it. These parallel approaches are centered around the idea of creating embodied invitations that build on existing practices in their respective domains - dance and theatre. We aim to move beyond traditional flat visualizations and leverage experiential modes of understanding to build new modes of representation that empower individuals and communities.
 
+### Papers
+
+* Bhargava, R., Brea, A., Perovich, L., & Jinson, J. (2022). [Data Theatre as an Entry Point to Data Literacy](https://www.jstor.org/stable/48695984). Educational Technology & Society, 25(4).
+
 ### Recent Related Blog Posts
 
 * [Designing Data Theatre - Learnings From Experts](/2021/05/14/data-theatre-interviews.html)
