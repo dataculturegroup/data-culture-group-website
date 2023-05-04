@@ -1,13 +1,13 @@
 ---
-title: Embodying Information
-description: exploring embodied data representation building on participatory theatre traditions
+title: Data Theatre
+description: exploring the power of theatre for telling embodied data stories
 thumbnail: embodied-info-thumb.png
 slug: "embodying-information"
 ---
 
 ![people moving]({{ site.baseurl }}/static/img/projects/embodied-info-thumb.png)
 
-Data is historically considered a tool for analytic support through visual interpretation, overlooking the potential of embodied representations. We explore dance and theater as paths to creating new understandings of information and bringing people together around data to increase collective empowerment and engagement. Our "embodying information" approach is based on our initial “data moves” explorations with Victoria Palacin and Rosalie Norris. “Data dance” workshops investigate how somatic invitations might engage professionals and novices alike in formal and affective modes of understanding and interpreting information through movement. "Data theatre" workshops leverage participatory theater to investigate how people relate to data when asked to perform some story they find in it. These parallel approaches are centered around the idea of creating embodied invitations that build on existing practices in their respective domains - dance and theatre. We aim to move beyond traditional flat visualizations and leverage experiential modes of understanding to build new modes of representation that empower individuals and communities.
+Data is historically considered a tool for analytic support through visual interpretation, overlooking the potential of embodied representations. In this work we explore theatre as a path to creating new understandings of information, and bringing people together, to increase collective empowerment and engagement. This builds on well-established patterns of theatrical production such as playback theatre, image theatre, viewpoints, and research-based theatre. These existing practices inform and underlie our attemps to move beyond traditional flat visualizations and leverage experiential modes of understanding to build new types of representation that empower individuals and communities.
 
 ### Papers
 
@@ -21,9 +21,19 @@ Data is historically considered a tool for analytic support through visual inter
 * [Talk - The Physical Life of Data?](/2021/01/24/physical-life-of-data-talk.html)
 * [What happens when we dance out data?](https://medium.com/@rahulbot/what-happens-when-we-dance-our-data-be55512d0b7d)
 
-### Collaborators
+### Current Collaborators
 
+* [Dani Snyder-Young](https://camd.northeastern.edu/faculty/dani-snyder-young/) - Assistant Professor, Theatre
+* [Michael Arnold Mages](https://camd.northeastern.edu/faculty/michael-arnold-mages/), Assistant Professor, Art + Design
+* [Moira Zellner](https://cssh.northeastern.edu/faculty/moira-zellner/), Professor of Public Policy and Urban Affairs; Director of Participatory Modeling and Data Science; Co-Director of NULab for Texts, Maps and Networks
+* Victor Talmadge, Professor, Director of Theater Studies at Mills College
+* [George Belliveau](https://rbtlab.ubc.ca/people/george-belliveau), Professor, Research-cased Theatre Cluster, University of British Columbia
 * [Laura Perovich](https://camd.northeastern.edu/faculty/laura-perovich/) - Assistant Professor, Art + Design, Northeastern University
+* [Oliver Wason](https://camd.northeastern.edu/faculty/oliver-wason/), Assistant Teaching Professor, Theatre
+
+### Past Collaborators
+
+* Rolasie Norris
 * [Victoria Palacin](https://www.mavipasi.com) - Post-doc, University of Helsinki
 * [Ilya Vidrin](https://www.ilyavidrin.com) - Postdoctoral Associate, Theatre, Northeastern University
 * [Nicole Zizzi](https://www.nicolezizzi.com) - Masters student, Architecture, Northeastern University
