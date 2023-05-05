@@ -56,7 +56,7 @@ After two quick weeks of building and playing, students were ready (enough) to s
 ![Prof. Pedro Cruz playing students' SpongeBob themed hole]({{ site.baseurl }}/static/img/posts/mini-mini-golf-hole-spongebob.jpg)
 *[Prof. Pedro Cruz](https://pmcruz.com) joined us and played the students' SpongeBob themed hole. (Photo by Matthew Modoono/Northeastern University)*
 
-![close-up of peron's hand using hand-held putter to tap a marble around laser-cut certical obstacles of Tom and Jerry]({{ site.baseurl }}/static/img/posts/mini-mini-golf-hole-tom-jerry.jpg)
+![close-up of person's hand using hand-held putter to tap a marble around laser-cut certical obstacles of Tom and Jerry]({{ site.baseurl }}/static/img/posts/mini-mini-golf-hole-tom-jerry.jpg)
 *The Tom and Jerry hole, amongst others, included some laser-cut character obstacles. (Photo by Charles Gauthier)*
 
 ![students standing and chatting around a table with the Kim Possible themed mini-mini golf hole on it]({{ site.baseurl }}/static/img/posts/mini-mini-golf-hole-kimpossible.jpg)
