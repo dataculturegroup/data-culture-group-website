@@ -4,6 +4,7 @@ date: 2023-05-03 00:08:31 -0500
 categories: [ "design", "teaching", "hardware" ]
 thumbnail: mini-mini-golf-thumb.jpg
 author: Rahul Bhargava
+description: How would you design an interactive mini-golf course with sensors and motors? Earlier this year students in my Physical Computing class explored this fun question. Read more and see some photos of the prototypes they created.
 ---
 
 My family knows one thing about vacationing with me: if we’re anywhere near a mini-golf course we’ll have to stop and play it. Waterfalls, windmills, pirates, animals — I love it all. This semester I was teaching Physical Computing course again, and I wondered… could I combine my love of the quirky American leisure activity with Arduinos, sensors, motors, and more? So I decided to have students design interactive tabletop mini-mini golf holes for a public showcase.
