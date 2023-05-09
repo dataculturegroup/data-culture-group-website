@@ -4,3 +4,6 @@
 [submodule "ourcup"]
 	path = ourcup
 	url = git@github.com:dataculturegroup/our-cup.git
+[submodule "our-own-terms"]
+	path = our-own-terms
+	url = https://github.com/dataculturegroup/us-politics-weekly-terms
