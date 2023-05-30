@@ -1,6 +1,6 @@
 ---
 title: "Comparing Headlines Across a Partisan Breakdown of US Online News"
-date: 2023-05-30 00:08:31 -0500
+date: 2023-05-30 00:09:00 -0500
 categories: [ "journalism", "media-analysis", "software", "visualization" ]
 thumbnail: terms-thumbnail.jpg
 author: Rahul Bhargava
