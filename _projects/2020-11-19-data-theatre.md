@@ -1,19 +1,25 @@
 ---
 title: Data Theatre
 description: exploring the power of theatre for telling embodied data stories
-thumbnail: embodied-info-thumb.png
-slug: "embodying-information"
+thumbnail: data-theatre-thumb.png
+slug: "data-theatre"
+redirect_from: 
+  - /projects/embodying-information.html
 ---
 
-![people moving]({{ site.baseurl }}/static/img/projects/embodied-info-thumb.png)
+![a group of actors on a stage performing a data theatre prototype production]({{ site.baseurl }}/static/img/projects/data-theatre.png)
 
 Data is historically considered a tool for analytic support through visual interpretation, overlooking the potential of embodied representations. In this work we explore theatre as a path to creating new understandings of information, and bringing people together, to increase collective empowerment and engagement. This builds on well-established patterns of theatrical production such as playback theatre, image theatre, viewpoints, and research-based theatre. These existing practices inform and underlie our attemps to move beyond traditional flat visualizations and leverage experiential modes of understanding to build new types of representation that empower individuals and communities.
 
-### Papers
+### Press
+
+* [Forget charts and bar graphs. Turn data into a play, ‘make them more human’](https://news.northeastern.edu/2023/06/22/magazine/data-theater-performance/) - Schuyler Velasco, NGN Magazine, June 2023
+
+### Papers and Press
 
 * Bhargava, R., Brea, A., Perovich, L., & Jinson, J. (2022). [Data Theatre as an Entry Point to Data Literacy](https://www.jstor.org/stable/48695984). Educational Technology & Society, 25(4).
 
-### Recent Related Blog Posts
+### Related Blog Posts
 
 * [Designing Data Theatre - Learnings From Experts](/2021/05/14/data-theatre-interviews.html)
 * [What does Data Theatre Look Like? — Lessons from Our First Workshops](/2021/04/16/data-theatre-workshops.html)
@@ -23,6 +29,7 @@ Data is historically considered a tool for analytic support through visual inter
 
 ### Current Collaborators
 
+* [Livable Streets Boston](https://www.livablestreets.info)
 * [Dani Snyder-Young](https://camd.northeastern.edu/faculty/dani-snyder-young/) - Assistant Professor, Theatre
 * [Michael Arnold Mages](https://camd.northeastern.edu/faculty/michael-arnold-mages/), Assistant Professor, Art + Design
 * [Moira Zellner](https://cssh.northeastern.edu/faculty/moira-zellner/), Professor of Public Policy and Urban Affairs; Director of Participatory Modeling and Data Science; Co-Director of NULab for Texts, Maps and Networks

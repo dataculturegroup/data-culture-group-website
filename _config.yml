@@ -46,6 +46,8 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-redirect-from
+  - jekyll-sitemap
 
 kramdown:
   syntax_highlighter: rouge
@@ -78,3 +80,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+whitelist:
+  - jekyll-redirect-from
