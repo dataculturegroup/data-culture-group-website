@@ -49,4 +49,7 @@ Data is historically considered a tool for analytic support through visual inter
 
 ### Supporters
 
-This work has been supported by funds from the Northeastern University Cluster Seed Grant and the [Co-Lab for Data Impact](https://camd.northeastern.edu/research-scholarship-creative-practice/co-laboratory-for-data-impact/).
+This work has been supported with funds from:
+* “Data Theatre for Community Engaged Deliberation” - 2023 Northeastern CAMD Seed Grant
+* “Embodying Information - The Physicalization of Data Through Performance” - 2020 Northeastern CAMD Collaborative Seed Grant
+* Northeastern [Co-Lab for Data Impact](https://camd.northeastern.edu/research-scholarship-creative-practice/co-laboratory-for-data-impact/).
