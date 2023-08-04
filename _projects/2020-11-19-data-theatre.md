@@ -14,6 +14,7 @@ Data is historically considered a tool for analytic support through visual inter
 ### Papers and Press
 
 * [Forget charts and bar graphs. Turn data into a play, ‘make them more human’](https://news.northeastern.edu/2023/06/22/magazine/data-theater-performance/) - Schuyler Velasco, NGN Magazine, June 2023
+* [Data Theatre & How To Create Authentic Data Experiences with Professor Rahul Bhargava](https://podcasts.apple.com/us/podcast/data-theatre-how-to-create-authentic-data-experiences/id1629893733?i=1000594764021) - interview with Isabel Becker on the Data Stories podcast, January 2023
 * Bhargava, R., Brea, A., Perovich, L., & Jinson, J. (2022). [Data Theatre as an Entry Point to Data Literacy](https://www.jstor.org/stable/48695984). Educational Technology & Society, 25(4).
 
 ### Related Blog Posts
