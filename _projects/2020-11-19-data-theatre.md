@@ -34,16 +34,16 @@ Data is historically considered a tool for analytic support through visual inter
 * Victor Talmadge, Professor, Director of Theater Studies at Mills College
 * [George Belliveau](https://rbtlab.ubc.ca/people/george-belliveau), Professor, Research-cased Theatre Cluster, University of British Columbia
 * [Laura Perovich](https://camd.northeastern.edu/faculty/laura-perovich/) - Assistant Professor, Art + Design, Northeastern University
-* [Oliver Wason](https://camd.northeastern.edu/faculty/oliver-wason/), Assistant Teaching Professor, Theatre
 
 ### Past Collaborators
 
-* Rolasie Norris
-* [Victoria Palacin](https://www.mavipasi.com) - Post-doc, University of Helsinki
-* [Ilya Vidrin](https://www.ilyavidrin.com) - Postdoctoral Associate, Theatre, Northeastern University
-* [Nicole Zizzi](https://www.nicolezizzi.com) - Masters student, Architecture, Northeastern University
+* [Oliver Wason](https://camd.northeastern.edu/faculty/oliver-wason/), Assistant Teaching Professor, Theatre
 * [Jesse Hinson](https://camd.northeastern.edu/faculty/jesse-hinson/) - Associate Teaching Professor, Theatre, Northeastern University
 * Amanda Brea - Student, Business Administration & Theatre, Northeastern University
+* [Nicole Zizzi](https://www.nicolezizzi.com) - Masters student, Architecture, Northeastern University
+* [Ilya Vidrin](https://www.ilyavidrin.com) - Postdoctoral Associate, Theatre, Northeastern University
+* [Victoria Palacin](https://www.mavipasi.com) - Post-doc, University of Helsinki
+* Rolasie Norris
 
 ### Supporters
 
