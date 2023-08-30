@@ -34,6 +34,8 @@ urls:
       url: projects/
     - text: About
       url: about/
+    - text: Mailing List
+      url: http://eepurl.com/iyGMNs
     - text: Code
       url: https://github.com/orgs/dataculturegroup/
 
