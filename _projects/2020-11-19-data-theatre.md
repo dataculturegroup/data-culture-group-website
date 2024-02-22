@@ -13,6 +13,7 @@ Data is historically considered a tool for analytic support through visual inter
 
 ### Papers and Press
 
+* Snyder-Young D., Arnold Mages M., Bhargava R., Carr J., Perovich L., Talmadge V., Wason O., Zellner M., C-Dina A., Birnholz R., Brockett, H., D'Ascoli, E., Holt, D., Love, S. Belliveau, G. (2024). [Viewpoints/Points of View: Building a Transdisciplinary Data Theatre Collaboration in Six Scenes](https://doi.org/10.3390/arts13010037). Arts. 13(1):37.
 * [Northeatern University Students Turning Data into Dance](https://youtu.be/7syYpXAElZ8) - Boston Channel 7 WHDH News, July 2023
 * [Forget charts and bar graphs. Turn data into a play, ‘make them more human’](https://news.northeastern.edu/2023/06/22/magazine/data-theater-performance/) - Schuyler Velasco, NGN Magazine, June 2023
 * [Data Theatre & How To Create Authentic Data Experiences with Professor Rahul Bhargava](https://podcasts.apple.com/us/podcast/data-theatre-how-to-create-authentic-data-experiences/id1629893733?i=1000594764021) - interview with Isabel Becker on the Data Stories podcast, January 2023
