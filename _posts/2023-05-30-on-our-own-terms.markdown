@@ -2,7 +2,7 @@
 title: "A New Tool To Help Understand Partisan News in the US"
 date: 2023-05-30 00:09:00 -0500
 categories: [ "journalism", "media-analysis", "software", "visualization" ]
-thumbnail: terms-thumbnail.png
+thumbnail: terms-thumbnail.jpg
 author: Rahul Bhargava
 description: We've created a new tool to visualize and compare top terms across a partisan breakdown of online news. Use it to explore the sometimes divering narratives in our increasingly polarized US media environment.
 ---
