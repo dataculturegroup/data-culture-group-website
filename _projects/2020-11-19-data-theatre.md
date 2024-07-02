@@ -13,6 +13,7 @@ Data is historically considered a tool for analytic support through visual inter
 
 ### Papers and Press
 
+* [From tutors to tax assistance, Northeastern’s Heart of CommUNITY awards honor civic leaders and volunteers](https://news.northeastern.edu/2024/06/15/heart-of-community-awards/) - Cynthia McCormick Hibbert, NGN, May 2024
 * Snyder-Young D., Arnold Mages M., Bhargava R., Carr J., Perovich L., Talmadge V., Wason O., Zellner M., C-Dina A., Birnholz R., Brockett, H., D'Ascoli, E., Holt, D., Love, S. Belliveau, G. (2024). [Viewpoints/Points of View: Building a Transdisciplinary Data Theatre Collaboration in Six Scenes](https://doi.org/10.3390/arts13010037). Arts. 13(1):37.
 * [Northeatern University Students Turning Data into Dance](https://youtu.be/7syYpXAElZ8) - Boston Channel 7 WHDH News, July 2023
 * [Forget charts and bar graphs. Turn data into a play, ‘make them more human’](https://news.northeastern.edu/2023/06/22/magazine/data-theater-performance/) - Schuyler Velasco, NGN Magazine, June 2023
