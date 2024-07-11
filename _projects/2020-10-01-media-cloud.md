@@ -31,3 +31,10 @@ Media Cloud is a set of tools and a database to support quantitative analysis of
 * Bhargava, R. & Bishop, C. (2020). [Mapping and Visualizing News Images for Media Research](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_39.pdf). (Boston, MA, 2020).
 * Bhargava, R., Dave, A., Papakyriakopoulos, O. (2020). Investigating Attention and Influence Online with Media Cloud. Tutorial presented at the 14th International Conference on Web and Social Media, Atlanta, GA, USA.
 * Zuckerman, E., Matias, J., Bhargava, R., Bermejo, F., & Ko, A. (2019) [Whose Death Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in Police Confrontations, 2013–2016](https://ijoc.org/index.php/ijoc/article/view/8782). International Journal of Communication. 13, 27.
+
+### Supporters
+
+This work has been supported with funds from:
+* "[Collaborative Research: HNDS-I: NewsScribe - Extending and Enhancing the Media Cloud Searchable Global Online News Archive](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2341858&HistoricalAwards=false)", 2024 Human Networks Data Science Infrastructure grant from the National Science Foundation
+* 2023 award from [the Information Integrity and Information Pollution program](https://www.undp.org/press-releases/digital-public-good-alliance-undp-announce-results-call-tackle-global-information-crisis), Digital Public Goods Alliance and United Nations Development Programme.
+* "International Hate Observatory" 2021 grant from the Knight Foundation
