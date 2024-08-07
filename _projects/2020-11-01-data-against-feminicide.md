@@ -16,8 +16,9 @@ We are supporting these groups by collaboratively designing technologies that ca
 With each partner group we train a binary machine learning classifer to identify online news articles about the types of incidents they are interested in tracking.
 Our open-source software tool-chain ingests matching stories based on keywords from online news archives (such as Media Cloud, Newscatcher, and the Internet Archive's Wayback Machine), passes candidate articles through the trained models, and relays relevant articles that score above a threshold to a central server. Groups receive daily emails with news stories automatically grouped by "incident", and can also access the historical archive via an online dashboard.
 
-### Related Academic Papers and Presentations
+### Papers, Presentations, and Press
 
+* [AI tools developed by Northeastern researcher allow grassroots organizations to monitor human and civil rights violations](https://news.northeastern.edu/2024/08/06/ai-data-collection-human-rights/) - Alena Kuzub, NGN, Aug 2024
 * Bhargava, R., Suresh, H., Dogan, A.L., So, W., Suárez Val, H. Fumega, S., D’Ignazio, C. [_News as Data for Activists: a case study in feminicide counterdata production_](https://github.com/browninstitute/c-plus-j-website/raw/main/proceedings/Session9Group2.pdf). 2022 Conference + Journalism Conference (C+J22).
 * Suresh, H., Dogan, A. L., Movva, R., Bhargava, R., So, W., Martinez Cuba, A., Taurino, G., García-Montes, M., Cruxen, I., & D’Ignazio, C. (2022). [_Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection_](https://dl.acm.org/doi/10.1145/3531146.3533132). 2022 Conference on Fairness, Accountability and Transparency (FAccT22).
 * D'Ignazio, C., Cruxên, I., Val, H. S., Cuba, A. M., García-Montes, M., Fumega, S., Suresh, H. & So, W. (2022). [_Feminicide and counterdata production: Activist efforts to monitor and challenge gender-related violence_](https://www.cell.com/patterns/pdf/S2666-3899(22)00127-1.pdf). Patterns, 3(7).
@@ -36,4 +37,5 @@ Our open-source software tool-chain ingests matching stories based on keywords f
 ### Supporters
 
 This work has been supported with funds from:
-* “Community-Based AI for Human Rights Monitoring” - [2024 NULab Community Collaboration Grant](https://cssh.northeastern.edu/nulab/community-based-ai-human-rights/)
+* "Grassroots AI-supported news monitoring with human rights organizations" - 2024 award from the [Data Empowerment Fund](https://dataempowerment.fund/#initiatives) (Omidyar Network * McGovern Foundation)
+* “Community-Based AI for Human Rights Monitoring” - [2024 NULab Community Collaboration Grant](https://cssh.northeastern.edu/nulab/community-based-ai-human-rights/) (NU Lab for Digital Humanities and Computational Social Science)

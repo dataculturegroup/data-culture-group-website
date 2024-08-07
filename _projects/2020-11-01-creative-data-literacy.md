@@ -24,9 +24,12 @@ Data is becoming more central to civic decision making every day. However, data 
 * [Librarians as "Civic Data Ambassadors" - revisiting a project](/2020/11/02/librarians-data-ambassadors.html)
 * [Paper: Pandemic Pedagogy @ IEEE Vis 2020](/2020/10/20/pandemic-pedagogy.html)
 
-### Academic Publications & Presentations
+### Papers, Presentations, and Press
 
+* Bhargava, R. (2023). [Data Representation as Epistemological Resistance. AoIR Selected Papers of Internet Research](https://doi.org/10.5210/spir.v2023i0.13396). Association of Internet Researchers (AoIR) Conference.
+* Bhargava, R. (2023). [Teaching Data That Matters: History and Practice](https://doi.org/10.1007/978-3-031-24193-2_11). In J. E. Raffaghelli & A. Sangrà (Eds.), Data Cultures in Higher Education: Emergent Practices and the Challenge Ahead (pp. 267–292). Springer International Publishing.
 * Bhargava, R., Williams, D., & D’Ignazio, C. (2021). Sketching to Learn: An Analysis of Work by Novice Data Visualization Learners. Proceedings of IEEE Vis 2021 (Short Paper).
+* Lee, V. R., Pimentel, D. R., Bhargava, R., & D’Ignazio, C. (2022). [Taking data feminism to school: A synthesis and review of pre‐collegiate data science education projects](https://doi.org/10.1111/bjet.13251). British Journal of Educational Technology, bjet.13251.
 * Bhargava, R. & D’Ignazio, C. (2021). [Teaching Data Journalism in a World of Tool and Tech Overload](https://doi.org/10.1145/3462741.3466660). Proceedings of the 13th ACM Web Science Conference 2021 (WebSci ’21 Companion). Southampton, United Kingdom.
 * Bhargava, R. (2020). [Pandemic Pedagogy: Taking Data-Viz Learning Online]({{ site.baseurl }}/static/files/Pandemic Pedagogy - Bhargava - final.pdf). Visualization Activities Workshop. Presented at the IEEE Vis Conference, Utah, USA.
 * D’Ignazio, C., & Bhargava, R. (2020). Data Visualization Literacy: A Feminist Starting Point. In M. Engebretsen & H. Kennedy (Eds.), [Data Visualization in Society](https://www.jstor.org/stable/j.ctvzgb8c7). Amsterdam, Netherlands: Amsterdam University Press.
