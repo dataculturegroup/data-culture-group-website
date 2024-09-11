@@ -20,7 +20,6 @@ Newsrooms continue to experiment with new product features built around the curr
 
 Those fighting the scraping-based collection of their content have been using [robots.txt](https://en.wikipedia.org/wiki/Robots.txt) to try and block the crawlers from big tech companies; [Reuters Institute published a report](https://reutersinstitute.politics.ox.ac.uk/how-many-news-websites-block-ai-crawlers) about how that is approach evolving back in February. Ben Walsh has a [regularly updated dashboard](https://palewi.re/docs/news-homepages/openai-gptbot-robotstxt.html) with more up-to-date details about adoption. Cloudflare, which is used by huge portions of the internet to serve content faster and protect against attacks, even [added a simple checkbox to block “AI Scrapers and Crawlers”](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click/) to make this easier for publishers.
 
-DON’T MISS  A roundup of measles outbreak visualizations, maps and interactives
 But what about readers? [Reuters Institute published a report](https://t.co/VSw1LQKuVd) on “public attitudes to the uses of generative AI in news”. Read their [summary thread on xTwitter](https://x.com/risj_oxford/status/1813105582062076211) for key highlights.
 
 ### Legal Woes
