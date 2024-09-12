@@ -6,7 +6,7 @@ thumbnail: CplusJ22paper-thumb.png
 author: Rahul Bhargava
 ---
 
-I'll be speaking at the [2022 Computation + Journalism conference](https://cj2022.brown.columbia.edu), hosted at Columbia University from June 9-11. I'll be presenting a paper on the software architecture supporting the [Data Against Feminicide project](https://dataculture.northeastern.edu/projects/data-against-network.html).
+I'll be speaking at the [2022 Computation + Journalism conference](https://cj2022.brown.columbia.edu), hosted at Columbia University from June 9-11. I'll be presenting a paper on the software architecture supporting the [Data Against Feminicide project](/projects/counterdata-network.html).
 
 ## News as Data for Activists: a case study in feminicide counterdata production
 

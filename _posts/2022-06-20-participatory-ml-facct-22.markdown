@@ -6,7 +6,7 @@ thumbnail: facct-22-thumb.png
 author: Rahul Bhargava
 ---
 
-We'll be presenting our collaborative work on the [Data Against Feminicide project](/projects/data-against-network.html) at the 2022 ACM Conference on Fairness, Accountability and Transparency. We're very excited to put forward this work as a case study in intersectional feminist and participatory approaches to machine learning.
+We'll be presenting our collaborative work on the [Data Against Feminicide project](/projects/counterdata-network.html) at the 2022 ACM Conference on Fairness, Accountability and Transparency. We're very excited to put forward this work as a case study in intersectional feminist and participatory approaches to machine learning.
 
 ## Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection
 

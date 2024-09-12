@@ -1,20 +1,18 @@
 ---
-title: The "Data Against" Network
+title: The Counterdata Network
 description: supporting activists tracking human rights violations in news with AI
-thumbnail: data-against-feminicide-thumb.jpg
-slug: "data-against-network"
+thumbnail: counterdata-network-thumb.png
+slug: "counterdata-network"
 ---
-
-![logo]({{ site.baseurl }}/static/img/projects/data-against-feminicide-thumb.jpg)
 
 Human rights defenders around the world – including community-based organizations, nonprofits, academics, and journalists – increasingly use news articles to compile databases of human rights violations which they use to document a problem, advocate for policy change, and to provide services to impacted communities. Their work builds on a long tradition started by journalist Ida B. Wells, who compiled information from media articles to systematically document the injustice of lynchings across the U.S. Some contemporary examples include: Latin American advocates who document cases of femicide/feminicide; journalists in the US who compile databases of citizens shot by police; and others.
 
-Cultivated alongside activitsts tracking feminicide across the Americas, we now work with dozens of groups. Growing beyond feminicide, the broader network of collaborators includes CSOs fighting against wrongful conviction, criminalization of pregnancy, gender-based violence, and more.
+Cultivated alongside activitsts tracking feminicide across the Americas in [The Data Against Feminicide project](http://datoscontrafeminicidio.net), we now work with dozens of groups. Growing beyond feminicide, the broader network of collaborators includes CSOs fighting against wrongful conviction, criminalization of pregnancy, gender-based violence, and more. This broader coalition of organizations, academics, activists, and technologists makes up the Counterdata Network.
 
 We are supporting these groups by collaboratively designing technologies that can help them automate some of this work. We can teach machines to surface potentially relevant news articles. We can build tools to help them extract relevant data from a news report and prepare it for entry into their tracking databases. We can design these systems together. The project serves as an example of rethinking tenents of emerging AI technologies with and for human rights defenders and researchers.
 
 With each partner group we train a binary machine learning classifer to identify online news articles about the types of incidents they are interested in tracking.
-Our [open-source software tool-chain](https://github.com/data-against) ingests matching stories based on keywords from online news archives (such as [Media Cloud](https://mediacloud.org), [Newscatcher](https://www.newscatcherapi.com/), and the [Internet Archive's Wayback Machine](https://web.archive.org/)), passes candidate articles through the trained models, and relays relevant articles that score above a threshold to a central server. Groups receive daily emails with news stories automatically grouped by "incident", and can also access the historical archive via an online dashboard.
+Our [open-source software tool-chain](https://github.com/counterdata-network) ingests matching stories based on keywords from online news archives (such as [Media Cloud](https://mediacloud.org), [Newscatcher](https://www.newscatcherapi.com/), and the [Internet Archive's Wayback Machine](https://web.archive.org/)), passes candidate articles through the trained models, and relays relevant articles that score above a threshold to a central server. Groups receive daily emails with news stories automatically grouped by "incident", and can also access the historical archive via an online dashboard.
 
 ### Papers, Presentations, and Press
 
@@ -33,6 +31,7 @@ Our [open-source software tool-chain](https://github.com/data-against) ingests m
 
 * [Data + Feminism Lab @ MIT](https://dataplusfeminism.mit.edu)
 * [Media Cloud](https://mediacloud.org)
+* [Data Against Feminicide](http://datoscontrafeminicidio.net)
 
 ### Supporters
 
