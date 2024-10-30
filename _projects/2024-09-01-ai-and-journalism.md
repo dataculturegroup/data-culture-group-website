@@ -12,7 +12,10 @@ Generative AI has impacted technologies in many fields, including journalism. Th
 * Bhargava, R., Hadjis, E., Heckman, M. (2024) A Case Study in an A.I.-Assisted Content Audit. Computation + Journalism (C+J-24) Conference.
 * Bhargava, R., Hadjis, E., Heckman, M. [Testing Generative AI for Source Audits in Student-Produced Local News](https://doi.org/10.31235/osf.io/7hc2d). Association for Education in Journalism and Mass Communication (AEJMC) Conference 2024. 
 * Prof. Bhargava's ["AI and Journalism news round-up" series on Storybench](https://www.storybench.org/author/rahul/)
-* [Related blog posts](/category/ai)
+
+### Related Blog Posts
+* [Pre-print: Testing Generative AI for Source Audits in Student-Produced Local News](/2024/08/15/data-theatre-arts-paper.html)
+* [other blog posts](/category/ai)
 
 ### Collaborators
 

@@ -25,6 +25,7 @@ Read more abut the [Northeastern Data Theatre Collaborative](https://camd.northe
 ### Related Blog Posts
 
 * [Data Theatre Collaborative wins Heart of CommUNITY Award](/2024/06/15/data-theatre-nu-award.html)
+* [New Paper about data theatre in Arts](/2024/02/18/data-theatre-arts-paper.html)
 * [Designing Data Theatre - Learnings From Experts](/2021/05/14/data-theatre-interviews.html)
 * [What does Data Theatre Look Like? — Lessons from Our First Workshops](/2021/04/16/data-theatre-workshops.html)
 * [Data Skits - Learning From Participatory Theatre](/2020/12/03/data-skits-background.html)
