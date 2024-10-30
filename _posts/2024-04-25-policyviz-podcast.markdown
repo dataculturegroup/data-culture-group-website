@@ -8,7 +8,7 @@ author: Rahul Bhargava
 
 I was so pleased to be invited by my friend and colleague Jon Schwabish for an interview on his [PolicyViz Podcast](https://policyviz.com/podcast/). The topic was "Data Beyond the Screen", specifically focused on data sculptures. [Watch a video of interview](https://www.youtube.com/watch?v=9yW0t51ktjs).
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/9yW0t51ktjs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9yW0t51ktjs" frameborder="0" allowfullscreen></iframe>
 
 As someone who started in computer science before finding my way to more community-centered work, I enjoyed sharing how my journey has shaped my approach to making data more accessible and engaging for diverse communities. In our conversation, I emphasized how our society tends to privilege sight over other senses when it comes to data representation. To address this I've done a lot of work on data sculptures and embodied data experiences. These approaches help create new entry points for people who might feel excluded by traditional data visualization methods.
 

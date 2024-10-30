@@ -13,7 +13,7 @@ I attended [csv,conf,v8](https://csvconf.com) in Puebla, Mexico, where I present
 
 I presented my work on creative data representation approaches for social justice movements. Now-traditional data visualization practices are often rooted in cultures of surveillance, formalism, capitalism, and authority - epistemological frameworks that can conflict with the needs and values of community-based social justice work.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/To6yczrx4_s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/To6yczrx4_s" frameborder="0" allowfullscreen></iframe>
 
 I shared several inspiring alternative examples that demonstrate what's possible when we embrace what [Turkle and Papert call "epistemological pluralism"](https://sherryturkle.mit.edu/sites/default/files/images/ST_Epistemo%20Pluralism.pdf) - accepting multiple ways of knowing things. Drawing on [Heron and Reason's extended epistemology framework](https://www.researchgate.net/publication/357256435_Achieving_effective_interprofessional_practice_between_speech_and_language_therapists_and_teachers_An_epistemological_perspective/figures?lo=1), I discussed how we can move beyond just propositional knowledge to incorporate experiential, practical, and presentational ways of knowing in our data work.
 

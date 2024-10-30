@@ -8,7 +8,7 @@ author: Rahul Bhargava
 
 I was honored to be invited to give a keynote at the [2023 Information is Beautiful Awards - Day of Inspiration, hosted by the Data Visualization Society](https://www.datavisualizationsociety.org/2023dayofinspiration). In the talk, called "Questioning Our Data Cultures" I decided to introduce some ideas from the book I'm working on, specifically about how our traditional approaches to data visualization and engagement need to evolve as data use spreads beyond its historical domains (science, statistics, and business) into new settings (newspapers, museums, civic engagment, CSOs, libraries).
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/-5KCIDIlnuY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-5KCIDIlnuY" frameborder="0" allowfullscreen></iframe>
 
 The dominant cultures of data - surveillance, formalism, authority, and capitalism - don't align well with what I call "pro-social settings" where the goals are participation, engagement, and empowerment. This misalignment creates barriers when we try to bring people together around data in community, civic, and advocacy contexts.
 
