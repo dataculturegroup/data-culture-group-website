@@ -37,6 +37,8 @@ urls:
       url: projects/
     - text: About
       url: about/
+    - text: Publications
+      url: publications/
     - text: Newsletter
       url: http://eepurl.com/iyGMNs
     - text: Code
