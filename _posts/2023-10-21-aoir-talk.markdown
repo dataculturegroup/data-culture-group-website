@@ -1,0 +1,15 @@
+---
+title: "Creative Data Viz as Epistemological Resistance (AoIR 2023 talk)"
+date: 2023-10-21 00:09:00 -0500
+categories: [ "visualization", "data-literacy", "events" ]
+thumbnail: aoir-talk-2023-thumb.png
+author: Rahul Bhargava
+---
+
+I attended the [Association of Internet Researchers 2023 conference](https://aoir.org/aoir2023/) last week in Philadelphia, where I presented my research on rethinking how we represent data in social justice and community settings. Read [the short paper](https://doi.org/10.5210/spir.v2023i0.13396).
+
+Utilizing the idea of "epistemological resistance" (borrowed from anti-colonial studies), I tried to challenge the dominant approach to data visualization that we've inherited from scientific and statistical traditions. While charts and graphs have become ubiquitous in community decision-making and activism, I argued that these conventional tools come with baggage - they privilege certain ways of knowing and understanding that don't always align with goals of empowerment and community engagement.
+
+To illustrate alternatives, I shared three powerful examples of creative data representation in community settings. In Mexico City, activists created a striking memorial by writing the names of feminicide victims on barriers around the main square (["Te nombré en el silencio"](https://ambulante.org/catalogo/te-nombre-en-el-silencio)). Chicago protesters constructed [a street data sculpture](https://x.com/ashapoesis/status/1279489934576046085) showing the city's disproportionate police spending compared to other departments. And in Los Angeles, unhoused community members and activists collaborated on both a [theatrical performance and mini-golf course](https://www.lapovertydept.org/the-back-9/) to represent data about homelessness policies. These cases demonstrate how communities are finding creative, embodied ways to represent data that go beyond standard charts and graphs.
+
+The core message of my talk was that we need to expand our data visualization toolbox to embrace multiple ways of knowing and understanding information. The standard approaches we've inherited from scientific fields don't always serve the needs of communities using data for social justice and democratic engagement. By learning from activists who are already pioneering alternative approaches like data sculptures, murals, and performance, we can develop more inclusive and empowering ways to represent data. I'm excited to continue exploring this intersection of data representation, epistemology, and social justice - there's so much potential for innovation here that could better serve communities working toward positive change. It will be a major focus of the book I'm working on.

@@ -23,6 +23,7 @@ Our [open-source software tool-chain](https://github.com/counterdata-network) in
 
 ### Related Posts
 
+* [Grant to support AI monitoring of news for human rights violations](/2024/08/06/data-empowerment-fund-grant.html)
 * [Paper Presentation at ACM Conference on Fairness, Accountability, and Transparency](/2022/06/20/participatory-ml-facct-22)
 * [Panel Talk @ Computation + Journalis 2022 Conference](/2022/06/08/c-plus-j-2022)
 * [Panel Talk @ the NULab 2021 Conference](/2021/03/25/good-data-panel.html)

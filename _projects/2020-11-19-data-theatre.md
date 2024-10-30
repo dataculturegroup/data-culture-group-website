@@ -11,6 +11,8 @@ redirect_from:
 
 Data is historically considered a tool for analytic support through visual interpretation, overlooking the potential of embodied representations. In this work we explore theatre as a path to creating new understandings of information, and bringing people together, to increase collective empowerment and engagement. This builds on well-established patterns of theatrical production such as playback theatre, image theatre, viewpoints, and research-based theatre. These existing practices inform and underlie our attemps to move beyond traditional flat visualizations and leverage experiential modes of understanding to build new types of representation that empower individuals and communities.
 
+Read more abut the [Northeastern Data Theatre Collaborative](https://camd.northeastern.edu/the-data-theatre-collaborative/).
+
 ### Papers and Press
 
 * [From tutors to tax assistance, Northeastern’s Heart of CommUNITY awards honor civic leaders and volunteers](https://news.northeastern.edu/2024/06/15/heart-of-community-awards/) - Cynthia McCormick Hibbert, NGN, May 2024
@@ -22,6 +24,7 @@ Data is historically considered a tool for analytic support through visual inter
 
 ### Related Blog Posts
 
+* [Data Theatre Collaborative wins Heart of CommUNITY Award](/2024/06/15/data-theatre-nu-award.html)
 * [Designing Data Theatre - Learnings From Experts](/2021/05/14/data-theatre-interviews.html)
 * [What does Data Theatre Look Like? — Lessons from Our First Workshops](/2021/04/16/data-theatre-workshops.html)
 * [Data Skits - Learning From Participatory Theatre](/2020/12/03/data-skits-background.html)
