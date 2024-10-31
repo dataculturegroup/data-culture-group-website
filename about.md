@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The **Data Culture Group** builds collaborative projects to **interrogate our datafied society** with a focus on **rethinking participation and power** in data processes. Led by Professor Rahul Bhargava, we are a part of the [College of Arts, Media and Design](http://camd.northeastern.edu) at Northeastern University. Our research projects sit at the intersections between traditional academic disciplines, and focus on three main areas:
+The **Data Culture Group** builds collaborative projects to **interrogate our datafied society** with a focus on **rethinking participation and power** in data processes. Our work generally fall into the categories of applied computational journalism or creative data representation. Led by Professor Rahul Bhargava, we are a part of the [College of Arts, Media and Design](http://camd.northeastern.edu) at Northeastern University. Our research projects sit at the intersections between traditional academic disciplines, and focus on three main areas:
 
 #### Tracking Where News is Going
 
