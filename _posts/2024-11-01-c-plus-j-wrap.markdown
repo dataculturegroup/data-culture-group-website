@@ -1,6 +1,6 @@
 ---
 title:  "Computation + Journalism 2024 Symposium wrap-up"
-date:   2024-11-02 00:09:00 -0500
+date:   2024-11-01 00:09:00 -0500
 categories: [ "data", "ai", "events", "journalism", "media-analysis", "software", "visualization" ]
 thumbnail: "cplusj-24-thumb.jpg"
 author: Rahul Bhargava
