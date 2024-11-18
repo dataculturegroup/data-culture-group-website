@@ -7,7 +7,7 @@ slug: "counterdata-network"
 
 Human rights defenders around the world – including community-based organizations, nonprofits, academics, and journalists – increasingly use news articles to compile databases of human rights violations which they use to document a problem, advocate for policy change, and to provide services to impacted communities. Their work builds on a long tradition started by journalist Ida B. Wells, who compiled information from media articles to systematically document the injustice of lynchings across the U.S. Some contemporary examples include: Latin American advocates who document cases of femicide/feminicide; journalists in the US who compile databases of citizens shot by police; and others.
 
-Cultivated alongside activitsts tracking feminicide across the Americas in [The Data Against Feminicide project](http://datoscontrafeminicidio.net), we now work with dozens of groups. Growing beyond feminicide, the broader network of collaborators includes CSOs fighting against wrongful conviction, criminalization of pregnancy, gender-based violence, and more. This broader coalition of organizations, academics, activists, and technologists makes up the Counterdata Network.
+The Counterdata Network – composed of the Data Culture Lab (Northeastern), the [Data + Feminism Lab (MIT)]((https://dataplusfeminism.mit.edu)), and the [DISCO Lab (Brown)](https://discolab.cs.brown.edu) – co-designed a software platform for monitoring human rights abuses from news reports. Originally, this emerged from the work of the [The Data Against Feminicide project](http://datoscontrafeminicidio.net). The Counterdata Network has been extending the platform for groups that monitor other types of human rights violations. The platform uses AI/ML models to detect news articles about human rights violations and present those to users as email alerts and as entries on a web dashboard.    
 
 We are supporting these groups by collaboratively designing technologies that can help them automate some of this work. We can teach machines to surface potentially relevant news articles. We can build tools to help them extract relevant data from a news report and prepare it for entry into their tracking databases. We can design these systems together. The project serves as an example of rethinking tenents of emerging AI technologies with and for human rights defenders and researchers.
 
@@ -31,11 +31,12 @@ Our [open-source software tool-chain](https://github.com/counterdata-network) in
 ### Collaborators
 
 * [Data + Feminism Lab @ MIT](https://dataplusfeminism.mit.edu)
-* [Media Cloud](https://mediacloud.org)
+* [Disco Lab @ Brown](https://discolab.cs.brown.edu)
 * [Data Against Feminicide](http://datoscontrafeminicidio.net)
+* [Media Cloud](https://mediacloud.org)
 
 ### Supporters
 
-This work has been supported with funds from:
+This work at Northeastern has been supported with funds from:
 * "Grassroots AI-supported news monitoring with human rights organizations" - 2024 award from the [Data Empowerment Fund](https://dataempowerment.fund/#initiatives) (Omidyar Network * McGovern Foundation)
 * “Community-Based AI for Human Rights Monitoring” - [2024 NULab Community Collaboration Grant](https://cssh.northeastern.edu/nulab/community-based-ai-human-rights/) (NU Lab for Digital Humanities and Computational Social Science)
