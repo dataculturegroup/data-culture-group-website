@@ -22,4 +22,4 @@ From a practical standpoint, our findings suggest that researchers working with 
 
 Thanks to the author team and the broader set of people who volunteered their time and language expertise to help us build the evaluaton dataset. For those interested in the technical details, the full paper delves deeper into the evaluation methods and our recommendations for best practices in multilingual media analysis. We hope our new dataset and this evaluation help push this area of software development forward.
 
-Read "[Author Unknown: Evaluating Performance of Author Extraction Libraries on Global Online News Articles]((https://arxiv.org/pdf/2410.19771))" on arXiv.
+Read "[Author Unknown: Evaluating Performance of Author Extraction Libraries on Global Online News Articles](https://arxiv.org/pdf/2410.19771)" on arXiv.
