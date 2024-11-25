@@ -88,6 +88,13 @@ nav a {
   color: #fff;
 }
 
+header .overlay {
+  float: right;
+  position: absolute;
+  width: 175px;
+  right: 50px;
+  z-index: 99999;
+}
 
 /* Post List */
 
