@@ -110,32 +110,36 @@ layout: compress
   <body>
     <div class="container">
 
-      <div class="row">
-
-        <div class="col-sm-3">
-          <header>
+      <header>
+        <div class="row">
+          <div class="col-sm-3">
             <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/static/img/dcg-logo.png" alt="Data Culture Group" class="logo" width="100%"/></a>
-          </header>
-          <div>
-            <ul class="sidebar-nav">
-              <li><a href="{{ site.baseurl }}/">Home</a></li>
-              {% for i in site.urls %}
-                {% if i.url contains "http" %}
-                  <li><a href="{{ i.url }}">{{ i.text }}</a></li>
-                {% else %}
-                  <li><a href="{{ site.baseurl }}/{{ i.url }}">{{ i.text }}</a></li>
-                {% endif %}
-              {% endfor %}
-            </ul>
           </div>
+          <div class="col-sm-8 col-offset-1 main-layout">
+            <div id="playground"></div>
+          </div>
+        </div>
+      </header>
+
+      <div class="row">
+        <div class="col-sm-3">
+          <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            {% for i in site.urls %}
+              {% if i.url contains "http" %}
+                <a href="{{ i.url }}">{{ i.text }}</a>
+              {% else %}
+                <a href="{{ site.baseurl }}/{{ i.url }}">{{ i.text }}</a>
+              {% endif %}
+            {% endfor %}
+          </nav>
         </div>
         <!-- end /.col-sm-3 -->
 
         <div class="col-sm-8 col-offset-1 main-layout">
-          <div id="playground"></div>
-          <div id="content">
+          <main>
             {{ content }}
-          </div>
+          </main>
         </div>
         <!-- end /.col-sm-8 -->
 

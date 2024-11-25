@@ -32,15 +32,15 @@ h1 {
 h2, h3 {
   margin: 40px 0 20px 0;
 }
-a, a:link, a:active {
+main a, main a:link, main a:active {
   text-decoration: underline;
   color: #32a8d9; /* water */
 }
-a:hover {
+main a:hover {
   color: #ff6643; /* ketchup */
   text-decoration: underline;
 }
-a:visited {
+main a:visited {
   color: #d0909a; /* dusty-rose */
 }
 
@@ -69,11 +69,12 @@ blockquote {
   height: 90px;
   margin-bottom:  84px;
 }
-.sidebar-nav {
-  margin: 5px 0 0 0;
+nav {
+  margin: 22px 0 0 0;
   padding: 0;
 }
-.sidebar-nav li {
+nav a {
+  display: block;
   margin: 0 0 20px 10px;
   list-style: none;
   text-transform: lowercase;
@@ -82,8 +83,6 @@ blockquote {
   background-color: #32a8d9; /* water */
   padding: 10px;
   border-radius: 10px;
-}
-.sidebar-nav li a {
   text-decoration: none;
   font-weight: 800;
   color: #fff;
@@ -148,7 +147,7 @@ div.post-content .btn-tags {
   margin-bottom: 3px;
 }
 
-div#content img {
+main img {
   width: 100%;
   border: 1px solid #eeeeee;
 }
@@ -203,7 +202,7 @@ div#content img {
   border-bottom: 1px solid #f0f0f0;
 }
 .post-content img,
-.content img {
+main img {
   max-width: 100%
 }
 
@@ -235,7 +234,7 @@ div#content img {
   .main-layout {
     margin-top: 0px;
   }
-  .sidebar-nav li {
+  nav a {
     display: inline-block;
   }
   #playground {

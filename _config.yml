@@ -47,12 +47,12 @@ urls:
     - text: Code
       url: https://github.com/orgs/dataculturegroup/
     - text: RSS Feed
-      url: /feed.xml
+      url: feed.xml
 
 url: "https://dataculturegroup.org"
 baseurl: ""
-paginate: 40
-per_page: 40
+paginate: 30
+per_page: 30
 paginate_path: "/page/:num/"
 markdown: kramdown
 plugins:
