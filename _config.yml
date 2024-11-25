@@ -16,6 +16,9 @@ collections:
     permalink: /projects/:path/
 
 social:
+    - logo: "bluesky-logo.jpg"
+      link: "https://bsky.app/profile/rahulbot.bsky.social"
+      name: "Blueskey"
     - logo: "mastodon-logo.png"
       link: "https://vis.social/@rahulbot"
       name: "Mastodon"
@@ -43,11 +46,13 @@ urls:
       url: http://eepurl.com/iyGMNs
     - text: Code
       url: https://github.com/orgs/dataculturegroup/
+    - text: RSS Feed
+      url: /feed.xml
 
 url: "https://dataculturegroup.org"
 baseurl: ""
-paginate: 20
-per_page: 20
+paginate: 40
+per_page: 40
 paginate_path: "/page/:num/"
 markdown: kramdown
 plugins:
