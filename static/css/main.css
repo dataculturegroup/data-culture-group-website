@@ -123,6 +123,7 @@ ul.posts li strong {
 .byline {
   font-style: italic;
   display: block;
+  font-size: 12px;
 }
 .post-header .byline {
   margin: 10px 0px;
