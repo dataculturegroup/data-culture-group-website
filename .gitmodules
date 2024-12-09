@@ -1,9 +1,17 @@
 [submodule "1659"]
 	path = 1659
 	url = https://github.com/dataculturegroup/1659-food-sculpture-website.git
-[submodule "ourcup"]
-	path = ourcup
-	url = git@github.com:dataculturegroup/our-cup.git
 [submodule "our-own-terms"]
 	path = our-own-terms
 	url = https://github.com/dataculturegroup/us-politics-weekly-terms
+[submodule "ourcup"]
+	path = ourcup
+	url = git@github.com:dataculturegroup/our-cup.git
+[submodule "ourcup-2022"]
+	path = ourcup-2022
+	url = git@github.com:dataculturegroup/our-cup.git
+	branch = 2022-wc-men
+[submodule "ourcup-2023"]
+	path = ourcup-2023
+	url = git@github.com:dataculturegroup/our-cup.git
+	branch = 2023-wc-women
