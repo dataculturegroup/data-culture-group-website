@@ -22,7 +22,7 @@ Bhargava, R. (2019). Data Literacy. In R. Hobbs & P. Mihailidis (Eds.), [Interna
 
 Snyder-Young, D., Carr, J., Bhargava, R., Perovich, L., Arnold Manges, M., Wason, O., Zellner, M., †C-Dina, A. *Holt, D., *Love, S., *Brockett, H., *Dascoli, Z., *Birnholz, R., Belliveau, G., & Talmadge, V. Viewpoints/Points of View: Building a Transdisciplinary Data Theatre Collaboration in Six Scenes. Arts 2024, 13, 37. [https://doi.org/10.3390/arts13010037](https://doi.org/10.3390/arts13010037)
 
-Heckman, M., Bhargava, R., Ndulue, E. (2023). Powering in Pearls and Willie Brown’s Mistress: A computational analysis of gendered news coverage of Kamala Harris on the partisan extremes. Feminist Media Studies. [https://doi.org/10.1080/14680777.2023.2280545](https://doi.org/10.1080/14680777.2023.2280545)
+Heckman, M., Bhargava, R., Ndulue, E. (2023). Powerful in Pearls and Willie Brown’s Mistress: A computational analysis of gendered news coverage of Kamala Harris on the partisan extremes. Feminist Media Studies. [https://doi.org/10.1080/14680777.2023.2280545](https://doi.org/10.1080/14680777.2023.2280545)
 
 Sunyou, K., McCreedy, K., Messinger, J., Bhargava, R., Beletsky, L. (2023) The Other Infodemic: Media Misinformation about Involuntary Commitment for Substance Use. Journal of Addiction Medicine 17(6). [https://doi.org/10.1097/adm.0000000000001194](https://doi.org/10.1097/adm.0000000000001194)
 
@@ -34,13 +34,13 @@ Bhargava, R., *Brea, A., Hinson, J., & Perovich, L. (2022) [Data Theatre as an E
 
 Zuckerman, E., Matias, J. N., Bhargava, R., Bermejo, F., & Ko, A. (2019). [Whose Death Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in Police Confrontations, 2013–2016](https://ijoc.org/index.php/ijoc/article/view/8782). International Journal of Communication, 13(27).
 
-## Reviewed Conference Papers:
+## Reviewed Conference Papers
 
-Bhargava, R., Hadjis, E., Heckman, M. (2024) A Case Study in an A.I.-Assisted Content Audit. Computation + Journalism (C+J-24) Conference.
+Bhargava, R., Hadjis, E., Heckman, M. (2024) [A Case Study in an A.I.-Assisted Content Audit](https://cplusj2024.github.io/papers/CJ_2024_paper_36.pdf). Computation + Journalism (C+J-24) Conference.
 
-Bhargava, R., Hadjis, E., Heckman, M. (2024) [Testing Generative AI for Source Audits in Student-Produced Local News](https://osf.io/7hc2d/). Association for Education in Journalism and Mass Communication (AEJMC’24) Conference. 
+Bhargava, R., Hadjis, E., Heckman, M. (2024) [Testing Generative AI for Source Audits in Student-Produced Local News](http://doi.org/10.31235/osf.io/7hc2d). Association for Education in Journalism and Mass Communication (AEJMC’24) Conference. 
 
-Bhargava, R., †Suresh, H., *Dogan, A.L., †So, W., Suárez Val, H. Fumega, S., D’Ignazio, C. (2022). News as Data for Activists: a case study in feminicide counterdata production. 2022 Conference + Journalism Conference (C+J22).
+Bhargava, R., †Suresh, H., *Dogan, A.L., †So, W., Suárez Val, H. Fumega, S., D’Ignazio, C. (2022). [News as Data for Activists: a case study in feminicide counterdata production](https://api-web.dataplusfeminism.mit.edu/uploads/a1df3e3809e843c4a6a0d86e5b579889.pdf). 2022 Conference + Journalism Conference (C+J22).
 
 †Suresh, H., *Dogan, A.L., *Movva, R., Bhargava, R., †So, W., †Martinez Cuba, A., Taurino, G., †García-Montes, M., †Cruxen, I., D’Ignazio, C. (2023) [Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection](https://dl.acm.org/doi/10.1145/3531146.3533132). In 2022 ACM Conference on Fairness, Accountability, and Transparency (FAccT '22). Association for Computing Machinery, New York, NY, USA, 667–678. (Distinguished Student Paper Award)
 
@@ -54,8 +54,13 @@ Bhargava, R., Bishop, C., Zuckerman, E. (2020). Mapping and Visualizing News Ima
 
 Bhargava, R., Gaikwad, N., Jen, D., Saldías-Feuntes, B., Chung, A., Hope, A., Zuckerman, E. (2019). [Gobo: A System for Exploring User Control of Invisible Algorithms in Social Media](https://www.semanticscholar.org/paper/Gobo%3A-A-System-for-Exploring-User-Control-of-in-Bhargava-Chung/16b79ac8b287af4cefec5ae1c569afd34c3d8981). Presented at the 22nd ACM Conference on Computer Supported Cooperative Work & Social Computing, Austin, TX, USA.
 
-## Non-Reviewed Academic Articles:
+## Non-Reviewed Academic Articles
 
 Bhargava, R. (2023). [Data Representation as Epistemological Resistance](https://spir.aoir.org/ojs/index.php/spir/article/view/13396). AoIR Selected Papers of Internet Research. Association of Internet Researchers (AoIR) Conference.
 
 Bhargava, R. (2020). Pandemic Pedagogy: Taking Data-Viz Learning Online. Visualization Activities Workshop. Presented at the IEEE Vis Conference, Utah, USA.
+
+## Pre-Prints
+
+Hatwar, S., Partridge, V., Bhargava, R., & Bermejo, F. (2024). [Author Unknown: Evaluating Performance of Author Extraction Libraries on Global Online News Articles](https://doi.org/10.48550/arXiv.2410.19771) (arXiv:2410.19771). arXiv. 
+
