@@ -55,6 +55,7 @@ Read more abut the [Northeastern Data Theatre Collaborative](https://camd.northe
 ### Supporters
 
 This work has been supported with funds from:
-* “Data Theatre for Community Engaged Deliberation” - 2023 Northeastern CAMD Seed Grant
-* “Embodying Information - The Physicalization of Data Through Performance” - 2020 Northeastern CAMD Collaborative Seed Grant
-* Northeastern [Co-Lab for Data Impact](https://camd.northeastern.edu/research-scholarship-creative-practice/co-laboratory-for-data-impact/).
+* "Data Theatre for Civic Deliberation" - [Mellon Foundation Cultures of U.S. Democracy grant](https://www.mellon.org/news/mellon-foundation-awards-14m-for-humanities-grounded-research) (2025)
+* “Data Theatre for Community Engaged Deliberation” - Northeastern CAMD Seed Grant (2023)
+* Northeastern [Co-Lab for Data Impact](https://camd.northeastern.edu/research-scholarship-creative-practice/co-laboratory-for-data-impact/) (2021)
+* “Embodying Information - The Physicalization of Data Through Performance” - Northeastern CAMD Collaborative Seed Grant (2020)
