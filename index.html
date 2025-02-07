@@ -53,4 +53,16 @@ layout: default
       {% endif %}
     </ul>
   {% endif %}
+
+  <hr />
+
+  <h2>Recent Social Posts</h2>
+  <script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" async></script>
+  <bsky-embed
+    username="rahulbot.bsky.social" limit="6" 
+    custom-styles=".mx-auto { margin-left: 0px }"
+  ></bsky-embed>
+  
+  <p><a href="https://bsky.app/profile/rahulbot.bsky.social">See more on Bluesky</a></p>
+
 </div><!-- end #home -->
