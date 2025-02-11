@@ -34,7 +34,6 @@ Read more abut the [Northeastern Data Theatre Collaborative](https://camd.northe
 
 ### Current Collaborators
 
-* [Livable Streets Boston](https://www.livablestreets.info)
 * [Dani Snyder-Young](https://camd.northeastern.edu/faculty/dani-snyder-young/) - Assistant Professor, Theatre
 * [Michael Arnold Mages](https://camd.northeastern.edu/faculty/michael-arnold-mages/), Assistant Professor, Art + Design
 * [Moira Zellner](https://cssh.northeastern.edu/faculty/moira-zellner/), Professor of Public Policy and Urban Affairs; Director of Participatory Modeling and Data Science; Co-Director of NULab for Texts, Maps and Networks
@@ -44,6 +43,7 @@ Read more abut the [Northeastern Data Theatre Collaborative](https://camd.northe
 
 ### Past Collaborators
 
+* [Livable Streets Boston](https://www.livablestreets.info)
 * [Oliver Wason](https://camd.northeastern.edu/faculty/oliver-wason/), Assistant Teaching Professor, Theatre
 * [Jesse Hinson](https://camd.northeastern.edu/faculty/jesse-hinson/) - Associate Teaching Professor, Theatre, Northeastern University
 * Amanda Brea - Student, Business Administration & Theatre, Northeastern University
@@ -56,6 +56,7 @@ Read more abut the [Northeastern Data Theatre Collaborative](https://camd.northe
 
 This work has been supported with funds from:
 * "Data Theatre for Civic Deliberation" - [Mellon Foundation Cultures of U.S. Democracy grant](https://www.mellon.org/news/mellon-foundation-awards-14m-for-humanities-grounded-research) (2025)
+* “Data Theatre Workshops” - Northeastern CSSH Humanities Center (2023)
 * “Data Theatre for Community Engaged Deliberation” - Northeastern CAMD Seed Grant (2023)
 * Northeastern [Co-Lab for Data Impact](https://camd.northeastern.edu/research-scholarship-creative-practice/co-laboratory-for-data-impact/) (2021)
 * “Embodying Information - The Physicalization of Data Through Performance” - Northeastern CAMD Collaborative Seed Grant (2020)
