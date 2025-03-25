@@ -16,11 +16,10 @@
 
     <style>
         :root {
-            --water: #32a8d9;
-            --disty-rose: #f26747;
-            --salmon: #d0909a;
-            --mustard: #f7901e;
-            --forest: #61893c;
+            --green: #417078;
+            --red: #bf2464;
+            --lightbrown: #e1d1c9;
+            --darkbrown: #c09068;
         }
         body {
             font-family: 'Montserrat', sans-serif;
@@ -35,19 +34,40 @@
         }
         h2 {
             font-weight: 200;
+            font-size: 3rem;
         }
         header {
-            background-color: var(--forest);
+            background-color: var(--green);
             text-align: center;
             padding: 2rem 0rem;
+            h1 {
+                color: white;
+            }
+            h2 {
+                color: white;
+            }
         }
         main {
             padding: 2rem 1rem;
-            background-color: white;
+            background-color: var(--lightbrown);
+            h2 {
+                border-top: 1px solid var(--darkbrown);
+                margin-top: 1rem;
+                padding-top: 2rem;
+            }
+        }
+        strong {
+            display: block;
+            font-size: 2rem;
+            line-height: 2.5rem;
+            font-weight: normal;
+            font-family: 'Teko', sans-serif;
+            margin-bottom: 2rem;
         }
         em {
             font-weight: bold;
             font-style: normal;
+            color: var(--red);
         }
         section {
             margin-bottom: 3rem;
@@ -57,7 +77,7 @@
             font-weight: 700;
         }
         footer {
-            background-color: var(--water);
+            background-color: var(--darkbrown);
             padding: 2rem 1rem;
 
             a, a:hover, a:visited, a:active {
@@ -100,13 +120,14 @@
             }
         }
         .notification {
-            background-color: var(--salmon);
+            background-color: var(--red);
             padding: 1rem;
             font-size: 1.5rem;
             font-weight: 700;
             border-radius: 10px;
+            color: white;
             a {
-                color: black;
+                color: white;
             }
         }
     </style>
@@ -128,11 +149,11 @@
             <div class="row justify-content-center">
                 <div class="col-md-6">
                     <section class="notification">
-                        🚨 Our first performance is March 28th - <a href="https://www.eventbrite.com/e/media-in-motion-creatively-transforming-cities-play-and-communities-tickets-1217968629959">register now</a>!
+                        Our first performance is March 28th - <a href="https://www.eventbrite.com/e/media-in-motion-creatively-transforming-cities-play-and-communities-tickets-1217968629959">register now</a>!
                     </section>
                     <section>
                         <p>
-                            <em>"Data Drums: A Rhythmic Call to Climate Action" is a live data sonification performance that brings global CO₂ emissions to life through the dynamic beats of a Brazilian-style drum ensemble.</em>
+                            <strong>"Data Drums: A Rhythmic Call to Climate Action" is a live data sonification performance that brings global CO₂ emissions to life through the dynamic beats of a Brazilian-style drum ensemble.</strong>
                         </p>
                         <p>
                             Based on carbon emissions from India, Brazil, and the USA, this four-part piece translates the data into rhythmic patterns, with each drum and its beats representing different parts of the data. The movements build from individual rhythms into complex layers, highlighting contrasts and connections between countries and sectors. Culminating in an interactive finale, the audience is invited to join in with their bodies, echoing collective responsibility and potential for climate action. This powerful, data-driven performance offers a unique fusion of music, science, and community engagement, creating an unforgettable experience that resonates with both urgency and hope.
@@ -154,7 +175,34 @@
                             <img src="rehearsal2.jpg" alt="Group leader, holding up a hand sign, with a few drummers watching"/>
                             <img src="rehearsal3.jpg" alt="individual drummer playing with two mallets while standing"/>
                             <img src="rehearsal4.jpg" alt="send in photo of two hand, drums being played, with hands and motion over them"/>
-                        </div></div>
+                        </div>
+                    </section>
+                    <section>
+                        <h2>The Story</h2>
+                        <p>Data Drums is a live performance based on data. Each movement involves a conversation between the Professor and the Band</p>
+                        <h3>Prelude</h3>
+                        <p>The Professor is excited to deliver his groundbreaking lecture on climate change around the world. But he realizes not everyone will be <em>motivated to action</em> by his statistical exposition... so he brought along the Band to help.</p>
+                        <h3>Movement 1</h3>
+                        <p>Emissions are going up. The Professor and the Band introduce the <em>increase over the last 100 years</em>, but that isn’t the whole story. Brazil currently emits just 1/10 of the United States' annual CO2 emissions, and India emits 1/2 of the US. The Band’s rhythms and beats demonstrate this by changing their volume based on how <em>emissions increased in each country</em> since 1900. They show that when combined you can hear how countries <em>aren’t working in sync</em>, creating dissonant beats.</p>
+                        <h3>Movement 2</h3>
+                        <p>The Professor jumps in to tell us that country-level emissions doesn’t tell the whole story; <em>emissions per person</em> show important differences. US per-capita emissions are almost 10 times that of Brazil and India. Using volume again the Band helps us understand the emissions growth in each country over time. They play <em>each country’s per-capita emissions increase</em>, with a rhythm inspired by the country.</p>
+                        <h3>Movement 3</h3>
+                        <p>The Professor digs into more detail, examining how <em>different sectors of the economy drive emissions</em>. Each drum in the Band plays the emissions from a different sector to show this. The low surdo drums is loud to show major emission from agriculture in Brazil. The rapid snare pops out to show emissions from energy production in India. Both the caixa and repique play loudest to show energy production and transportation driving emissions in the US. The changing rhythms reflect that <em>our approaches need to complement one another</em>.</p>
+                        <h3>Coda</h3>
+                        <p>The only way to address these challenges is <em>together</em>, across countries and rhythms. The Professor and the Band invite you to lead their beats; your participation takes work, but all together can <em>alter the rhythms of emissions</em> across the globe. The joy of working together pushes back on the Professor’s doom and gloom lecture.</p>
+                    </section>
+                    <section>
+                        <h2>The Data</h2>
+                        <p>
+                            Data Drums is based on datasets estimating CO2 emissions across the globe and in Brazil, India, and the US (as of 2024). The data sources include:
+                        </p>
+                        <ul>
+                            <li>National Oceanic and Atmospheric Administration</li>
+                            <li>Our World in Data</li>
+                            <li>The Carbon Brief</li>
+                            <li>The US International Energy Agency</li>
+                            <li>The United Nations</li>
+                        </ul>
                     </section>
                 </div>
             </div>
@@ -169,6 +217,9 @@
                     </p>
                     <p>
                         Development was supported by the Northeastern CAMD Climate Change and Public Communication Impact Group.
+                    </p>
+                    <p>
+                        A project of the <a href="https://dataculture.northeastern.edu">Data Culture Group</a> at Northeastern University.
                     </p>
                 </div>
             </div>
