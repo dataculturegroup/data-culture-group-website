@@ -2,5 +2,5 @@ _site*
 .sass-cache
 .jekyll-metadata
 *backup/
-*.sh
+pick-ruby-gemset.sh
 .DS_Store
