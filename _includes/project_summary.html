@@ -1,7 +1,14 @@
 <div class="project">
   <div class="row">
     <div class="col-sm-6">
-      <a href="{{ site.baseurl }}{{ project.url }}"><img src="{{ site.baseurl }}/static/img/projects/{{ project.thumbnail }}" /></a>
+      {% if project.external_url %}
+        <a href="{{ project.external_url }}">
+      {% elsif project.internal_url %}
+        <a href="{{ site.baseurl }}{{ project.internal_url }}">
+      {% else %}
+        <a href="{{ site.baseurl }}{{ project.url }}">
+      {% endif %}
+      <img src="{{ site.baseurl }}/static/img/projects/{{ project.thumbnail }}" /></a>
     </div>
     <div class="col-sm-6">
       <h3><a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a></h3>

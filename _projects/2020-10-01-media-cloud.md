@@ -5,19 +5,19 @@ thumbnail: mediacloud-thumb.png
 slug: "media-cloud"
 ---
 
-![screnshot of Explorer web tool]({{ site.baseurl }}/static/img/projects/mediacloud.jpg)
+![screnshot of web search tool]({{ site.baseurl }}/static/img/projects/media-cloud-search.png)
 
-Media Cloud is a set of tools and a database to support quantitative analysis of online news. This consists of both the Online News Archive (2+ billion stories) and the Media Directory (60,000+ global sources). As a piece of critical public digital infrastructure built with open-source technologies, any one can use the web-based tools or API-level access to investigate media attention, language, and influence online.
+Media Cloud is an open-source platform for media analysis. This consists of both the Online News Archive (2+ billion stories) and the Media Directory (60,000+ global sources). As a piece of critical public digital infrastructure built with open-source technologies, anyone can use the web-based tools or API-level access to investigate media attention and language online.
 
 ### Learn More
 
 * Read More: [mediacloud.org](https://mediacloud.org)
-* Try it out: [explorer.mediacloud.org](http://explorer.mediacloud.org)
+* Try it out: [search.mediacloud.org](http://search.mediacloud.org)
 
 ### Collaborators
 
 * [The Institute for Digital Public Infrastructure @ UMass Amherst](http://publicinfrastructure.org)
-* [Berkman Klein Center for Internet and Society @ Harvard University](https://cyber.harvard.edu)
+* [Media Ecosystems Analysis Group](https://www.mediaecosystems.org)
 
 ### Related Blog Posts
 * [Media Cloud Receives Major NSF Grant!](/2024/07/01/nsf-hndsi-grant-media-cloud.html)
