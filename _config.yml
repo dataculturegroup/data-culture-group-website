@@ -25,12 +25,6 @@ social:
     - logo: "linkedin-logo.png"
       link: "https://www.linkedin.com/in/rahulbot/"
       name: "LinkedIn"
-    - logo: "twitter-logo.png"
-      link: "https://twitter.com/rahulbot"
-      name: "Twitter"
-    - logo: "instagram-logo.png"
-      link: "https://www.instagram.com/rahulbot/"
-      name: "Instagram"
 
 share:
   twitter_username: rahulbot
