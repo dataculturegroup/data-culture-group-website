@@ -2,7 +2,7 @@
 title:  "Protest Mapper: a new tool for journalists covering protests"
 date:   2025-05-08 09:00:00 -0600
 categories: [ "ai", "journalism", "civic-engagement" ]
-thumbnail: "utsa-data-for-good-thumb.jpg"
+thumbnail: "protest-mapper-thumb.png"
 author: Rahul Bhargava
 ---
 
