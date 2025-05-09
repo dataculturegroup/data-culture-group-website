@@ -70,4 +70,4 @@ Tools like these require ongoing support, so I’ve made some decisions to try a
 
 Give it a try, share it, and let us know what you find in the comments. Hopefully this tool and explanation will help you and others include data about the wave of protests to your reporting and add context to individual events you’re covering.
 
-*Originally published on the Storybench blog*
+*[Originally published on Storybench](https://www.storybench.org/try-this-tool-to-map-protests-for-local-news/)*
