@@ -38,6 +38,8 @@ urls:
       url: publications/
     - text: Newsletter
       url: http://eepurl.com/iyGMNs
+    - text: Teaching
+      url: teaching/
     - text: Code
       url: https://github.com/orgs/dataculturegroup/
     - text: RSS Feed
