@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini Mini Golf - Physical Computing (Spring 2025)</title>
+
+  <meta property="og:title" content="Mini Mini Golf - Physical Computing (Spring 2025)">
+  <meta property="og:description" content="Videos of the mini-mini golf holes students made in my Physical Computing course at Northeastern University.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="FinalMiniMiniGolfFlyer.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chewy&family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --padding-big: 40px;
+      --padding-medium: 20px;
+      --padding-small: 10px;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      overflow-x: auto;
+      min-height: 100vh;
+      font-family: "Quicksand", sans-serif;
+    }
+
+    header {
+      flex: 0 0 auto;
+      background-color: rgb(57,80,59);
+      min-height: 100vh;
+      margin-right: 80px;
+      position: relative;
+      img.scroll-indication {
+        position: absolute;
+        bottom: 0;
+        top: 50vh;
+        margin-left: var(--padding-small);
+        transform: translatey(-50%);
+        width: 100px;
+        height: auto;
+        animation: fadeInOut 1s infinite;
+      }
+    }
+
+    @keyframes fadeInOut {
+      0%, 100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.5;
+      }
+    }
+
+    h1, h2 {
+      font-family: "Chewy", sans-serif;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin: 0 0 var(--padding-small) 0;
+      padding: 0;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+      margin: var(--padding-small) 0;
+      padding: 0;
+    }
+
+    address {
+      font-style: italic;
+      margin-bottom: var(--padding-small);
+    }
+
+    section {
+      flex: 0 0 auto;
+      width: 550px;
+      padding: var(--padding-medium) var(--padding-big);
+      box-sizing: border-box;
+      border-right: 1px solid #ccc;
+
+      iframe {
+        width: 100%;
+        height: 200px;
+        margin: var(--padding-small) 0;  
+      }
+      
+      img {
+        width: 100%;
+        height: auto;
+        margin: var(--padding-small) 0;
+      }
+    }
+
+    @media (max-width: 550px) {
+      img#flyer {
+        width: 100vw;
+      }
+      section {
+        width: 100%;
+        padding: var(--padding-big);
+      }
+    }
+
+    @media (min-width: 551px) {
+      img#flyer {
+        height: 100vh;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img id="flyer" src="FinalMiniMiniGolfFlyer.png" alt="Mini Mini Golf Flyer">
+    <img class="scroll-indication" src="double-right-arrow.png" alt="scroll right for content">
+  </header>
+
+  <section>
+    <h2>Antarctic Adventure</h2>
+    <h3>Brave the cold to hatch your penguin egg</h3>
+    <address>Gregory Rosa, Adalia Lee, and Vanessa Balin</address>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/PA0Vwp7nm9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Explore Antarctica’s vibrant wildlife in this mini-mini golf hole. You’ll experience the life of a penguin trying to protect its egg while bringing it to safety. Keep a sharp eye out for the predatory seals and orcas that’ll try to steal your child.</p>
+    <p>The icy structures of the arctic will be a rough terrain to navigate, as you swim through freezing water, slide down glaciers, and climb up snowy hills.</p>
+    <p>Once the egg is back safely in its nest, it’ll need warmth to grow. Nurture your egg and watch it hatch!</p>
+    <img src="antarctic.jpg" alt="top view of mini mini golf hole colored white, with crocheted whales and an igloo obstacle"/>
+    <img src="antarctic2.jpg" alt="closeup of crocheted whales jumping to stop marble" />
+  </section>
+
+  <section>
+    <h2>The Mini-mini Mummy</h2>
+    <h3>Travel Through Ancient Egypt to Lift the Mummy’s Curse!</h3>
+    <address>Ezri Abraham and Gabe Longoria</address>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/l4mI4XTYS5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Navigate through an ancient tomb and find the mummy! But, when you get to his tomb, you will be cursed and exiled to ancient Egypt.</p>
+    <p>Travel through a pyramid, journey around idols, and get help from a magical sphinx. If you find and hit the mummy’s gem, your path back to the present will be revealed. But, you must get through the door in time or forever be trapped in the past!</p>
+    <img src="egpyt.jpg" alt="closeup of sphinx obstacle with a gem you have to hit with marble to open hole" />
+    <img src="egypt2.jpg" alt="top view of mini mini golf hole colored brown, with a pyramid and a sphinx obstacle"/>
+  </section>
+
+  <section>
+    <h2>Monet's Golf Garden</h2>
+    <h3>Inspired by Monet. Designed for Play.</h3>
+    <address>Alexi Lee & Sammi Chen</address>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/fpGQYKC0xFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>Claude Monet, a French artist and a leading figure of the impressionist movement, was deeply inspired by nature – not just in his paintings but in the garden he created at his home in Giverny, France. Designed as a living work of art, the garden is known for its flowers, tranquil pond, floating water lilies, and the iconic bridge. It became the subject of many of Monet’s famous paintings, capturing the beauty of the landscape.</p>
+    <p>This mini-mini golf course, inspired by Monet’s garden, invites you to move through a landscape of greenery and water, choosing your own route – cross the bridge for a scenic path or putt your way through the water and weave past floating lily pads and swans. This course offers an experience that reflects the beauty and atmosphere of Monet’s Garden.</p>
+    <img src="monet.jpg" alt="closeup of lily pads and a swan obstacle" />
+    <img src="monet2.jpg" alt="top view of mini mini golf hole colored green, with a bridge and lily pads" />
+  </section>
+
+  <section>
+    <h2>Sakura Meadow</h2>
+    <h3>Where every swing meets spring.</h3>
+    <address>Ruohan Li, Siraju Jalloh, and Maha Sidi</address>
+    <img src="sakura2.png" alt="top view of mini mini golf hole colored pink, with a torii gate and cherry blossoms" />
+    <!-- <iframe width="480" height="270" src="https://www.youtube.com/embed/2VPpmbalc7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+    <p>For centuries in Japan, cherry blossom season (hanami) has been a time for people to come together under the blooming sakura trees to appreciate beauty, reflect on life, and welcome the arrival of spring. It’s a tradition deeply rooted in Japanese culture, symbolizing peace and strength.</p>
+    <p>At Sakura Meadow, we’ve brought a piece of that experience to you. With glowing cherry blossoms, a torii gate, a light-up mountain inspired by Mt. Fuji, and gentle touches of nature throughout, this course captures the calm and beauty of hanami—without the long flight. Come relax, play, and enjoy the scenery. No passport needed.</p>
+    <img src="sakura.jpg" alt="closeup of cherry blossom obstacle with a torii gate" />
+  </section>
+
+  <section>
+    <h2>The Pearl's Return</h2>
+    <h3>Venture through the reef. Return the pearl.</h3>
+    <address>Maia Delagneau</address>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/FaErofoeR6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>The Great Barrier Reef, one of the world' natural wonders, contains a beautiful array of different organisms. Plagued with greedy pearl harvesters, the pearl has been torn from it's home and anxiously seeks to return. Despite its beauty, this ecosystem is not forgiving. Riddled with coral and moving sea creatures, it is not a simple quest.</p>
+    <p>This mini-mini golf story challenges you to play as the pearl and find your way home back to the clam. Weave through different corals and strategically avoid the infamous shark. Make it to the end to return the pearl to its rightful home. Careful, the plethora of obstacles will try to stand in your way.</p>
+    <img src="coral.jpg" alt="top view of mini mini golf hole colored blue, with a clam and a shark obstacle" />
+  </section>
+
+  <section>
+    <h2>Times Square Showdown</h2>
+    <h3>Navigate the noise. Outsmart the city that never sleeps.</h3>
+    <address>Paula Chung and Neil Hadap</address>
+    <iframe width="480" height="270" src="https://www.youtube.com/embed/QBd7aSDz3o8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>This hole captures the energy and chaos of Times Square, one of New York City’s most iconic spots. Bright lights, fast taxis, spinning billboards, rolling down buildings, and nonstop movement make it a challenge to reach the end.</p>
+    <p>Play the role of a pedestrian navigating the city and carefully guide your marble through the course with flashing lights while avoiding rotating taxis that can block or redirect your shot.</p>
+    <p>Once the marble is in the hole, the apple near the hole will light up, signaling that you made it across Times Square safely!</p>
+    <img src="times-square2.png" alt="top view of mini mini golf hole colored yellow, with a taxi and a billboard obstacle" />
+    <img src="times-square.jpg" alt="closeup of taxi obstacle with a light up apple" />
+  </section>
+
+  <section>  
+    <h2>Physical Computing Showcase</h2>
+    <h3>Spring 2025</h3>
+    <p>Students produced these mini-mini golf holes for the final showcase of the Physical Computing course.</p>
+    <p>We live in a physical world full of joyful textures, color, and tactile sensation. Too often the cutting of technology pulls us out of this multi-sensory world into a flat plane of glass. This course invites you to blow up those boundaries by building physical, sensory, and movement-based computational objects that invite critical reflection, delightful interaction, and prompt meaningful action. We will begin by using simple toolkits to practice how to build physical behaviors in the real world quickly. Readings will survey the rich world of tangible interfaces, guest talks will get behind the scenes with practitioners from the worlds of the arts, informal education and the maker movement. We will move on to build complex computation-based physical objects with intention and purpose based on your interests.</p>
+    <p>
+      Prof. Rahul Bhargava
+      <br />
+      ARTG3250: Physical Computing(Spring 2025)
+      <br />
+      <a href="https://camd.northeastern.edu/art-design/">Northeastern University Department of Art + Design</a>.
+    </p>
+  </section>
+</body>
+</html>
