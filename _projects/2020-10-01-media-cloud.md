@@ -22,10 +22,10 @@ Media Cloud is an open-source platform for media analysis. This consists of both
 ### Related Blog Posts
 * [Media Cloud Receives Major NSF Grant!](/2024/07/01/nsf-hndsi-grant-media-cloud.html)
 * [A New Tool To Help Understand Partisan News in the US]([/2023/05/30/on-our-own-terms.html)
-* [Upcoming talk at PaCSS'22: Partisan Media Coverage and Intersectionality](2022/06/16/CP-Harris-PaCSS.html)
-* [ICA'22 Poster: Politicization and Polarization of Pandemic News Coverage](2022/05/26/ica-covid-poster.html)
-* [Swiped: How dating apps harm marginalized communities](2021/01/13/virtual-dating.html)
-* [Pandemic news coverage is falling, but cases keep rising](2020/09/21/pandemic-state-news.html)
+* [Upcoming talk at PaCSS'22: Partisan Media Coverage and Intersectionality](/2022/06/16/CP-Harris-PaCSS.html)
+* [ICA'22 Poster: Politicization and Polarization of Pandemic News Coverage](/2022/05/26/ica-covid-poster.html)
+* [Swiped: How dating apps harm marginalized communities](/2021/01/13/virtual-dating.html)
+* [Pandemic news coverage is falling, but cases keep rising](/2020/09/21/pandemic-state-news.html)
 
 ### Papers, Presentations, and Press
 
