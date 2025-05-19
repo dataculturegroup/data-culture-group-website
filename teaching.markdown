@@ -23,6 +23,7 @@ His courses include:
 ---
 
 **Interactivity in the Educational Museum**  
+* <a href="/teaching/ARTG5000/f2023.html">Making Sense: popup science museum exhibit</a>  
 
 ---
 

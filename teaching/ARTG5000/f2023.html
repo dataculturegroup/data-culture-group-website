@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Projects - Interactivity in the Educational Museum (Fall 2023)</title>
+
+  <meta property="og:title" content="Student Projects - Interactivity in the Educational Museum (Spring 2025)">
+  <meta property="og:description" content="Videos from the pop-up science museum exhibits students created in the Interactivity in the Educational Museum course at Northeastern University.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="making-sense-logo.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+  <style>
+    :root {
+      --sense-purple: #a2a0cf;     /* Background of the first "S" */
+      --sense-pink: #d382b7;       /* Background of the first "E" */
+      --sense-salmon: #f4807a;     /* Background of the "N" */
+      --sense-teal: #30bcac;       /* Background of the second "S" */
+      --sense-blue: #39b7ea;       /* Background of the second "E" */
+      --padding-large: 40px;
+      --padding-medium: 20px;
+      --padding-tiny: 10px;
+      background-color: white;
+    }
+    body {
+      font-family: "Lato", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      margin: 0px;
+      padding: 0px;
+    }
+    h1, h2, h3 {
+      font-family: "Lato", sans-serif;
+      font-style: normal;
+    }
+    h1 {
+      font-weight: 900;
+      font-size: 4rem;
+    }
+    h2 {
+      font-weight: 100;
+      font-size: 2rem;
+    }
+    h3 {
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+    header {
+      p {
+        font-size: 1.5rem;
+        margin-top: 1.5rem;
+      }
+    }
+    #banner {
+      background-color: var(--sense-purple);
+      font-weight: bold;
+      padding: var(--padding-tiny) 0;
+      margin-bottom: var(--padding-large);
+    }
+    #press-release{
+      background-color: var(--sense-pink);
+      padding: var(--padding-large) 0;
+    }
+    section#photos {
+      padding: var(--padding-large) 0;
+      margin-bottom: var(--padding-large);
+      .carousel-cell {
+        width: 30%;
+        margin-right: 10px;
+      }
+      .carousel-cell img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      @media (max-width: 768px) {
+        .carousel-cell {
+          width: 80%;
+        }
+      }
+    }
+    section.project {
+      padding: var(--padding-large) 0;
+      margin-top: var(--padding-large);
+      border-top: 1px solid var(--sense-purple);
+    }
+    footer {
+      background-color: var(--sense-teal);
+      color: black;
+      padding: var(--padding-large) 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div id="banner">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-6">
+            Interactivity in the Educational Museum & Introduction to Immersive Media  (Fall 2023)
+          </div>
+          <div class="col-sm-6 text-end">
+            Sofie Hodara & Rahul Bhargava
+          </div>
+        </div>
+      </div>      
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <img src="making-sense-logo.png" alt="Making Sense" class="img-fluid">
+        </div>
+        <div class="col-md-7 offset-md-1">
+          <h1>Making Sense</h1>
+          <h2>a playful pop-up science exhibition</h2>
+          <p>
+            <span style="color: var(--sense-purple);">Feel history with your hands,</span><br />
+            <span style="color: var(--sense-pink);">See like your dog,</span><br />
+            <span style="color: var(--sense-salmon);">Understand why you get dizzy,</span><br />
+            <span style="color: var(--sense-teal);">Notice how age changes your relationship to your toothbrush,</span><br />
+            <span style="color: var(--sense-blue);">Experience how the smell of coffee sparks memory,</span><br />
+            and more!
+          </p>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main>
+    <section id="photos">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="carousel"
+              data-flickity='{"cellAlign": "left", "contain": true, "pageDots": true, "groupCells": 3, "imagesLoaded": true}'>
+              <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03247.jpg" alt="CAMD exhibit photo 1" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03278.jpg" alt="CAMD exhibit photo 2" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03287.jpg" alt="CAMD exhibit photo 3" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03301.jpg" alt="CAMD exhibit photo 4" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03311.jpg" alt="CAMD exhibit photo 5" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03326.jpg" alt="CAMD exhibit photo 6" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03328.jpg" alt="CAMD exhibit photo 7" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03363.jpg" alt="CAMD exhibit photo 8" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03400.jpg" alt="CAMD exhibit photo 9" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03411.jpg" alt="CAMD exhibit photo 10" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03438.jpg" alt="CAMD exhibit photo 11" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03442.jpg" alt="CAMD exhibit photo 12" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03451.jpg" alt="CAMD exhibit photo 13" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03464.jpg" alt="CAMD exhibit photo 14" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03502.jpg" alt="CAMD exhibit photo 15" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03546.jpg" alt="CAMD exhibit photo 16" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03581.jpg" alt="CAMD exhibit photo 17" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03616.jpg" alt="CAMD exhibit photo 18" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03628.jpg" alt="CAMD exhibit photo 19" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03655.jpg" alt="CAMD exhibit photo 20" class="img-fluid"> </div>
+                <div class="carousel-cell"> <img src="2023-exhibit-CAMD-photos/KCC03733.jpg" alt="CAMD exhibit photo 21" class="img-fluid"> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2>Featuring these student projects:</h2>
+        </div>
+      </div>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>What's the Difference: A Sense of Scale</h3>
+            <p>Sydney Purdue</p>
+            <p>
+              When we listen to the world around us we do more than hear. We experience sensations that we can distinguish between physical 'emotions' and mental 'feelings.' These reactions can vary from person to person, ranging from a light feeling of calmness to an intense physical reaction For individuals with Misophonia, an auditory processing disorder that causes a nypersensivity to sound, certain noises can trigger a fight-or-flight response. Learning about our personal responses to sound can allow us to understand ourselves on a deeper level.
+            </p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/33pxyuMxZfI?si=PLR0cO-35uHBB8r7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Smell the Roses</h3>
+            <p>Scarlett Hanks</p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ZC8M98lrqWw?si=hPEVvHDXGr6yrOFy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Smell the Coffee</h3>
+            <p>May Elwakil</p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4RkLGXf__fY?si=AhqCqlNEKQ7zG1wo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Resonate: Sounds & Sensitivity</h3>
+            <p>Taylor Farnell</p>
+            <p>
+              When we listen to the world around us we do more than hear. We experience sensations that we can distinguish between physical 'emotions' and mental 'feelings.' These reactions can vary from person to person, ranging from a light feeling of calmness to an intense physical reaction For individuals with Misophonia, an auditory processing disorder that causes a nypersensivity to sound, certain noises can trigger a fight-or-flight response. Learning about our personal responses to sound can allow us to understand ourselves on a deeper level.
+            </p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/33pxyuMxZfI?si=PLR0cO-35uHBB8r7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Switch the Color</h3>
+            <p>Ziyu Peng</p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/1_lx3L6Qehw?si=4_5yfkrlOmrYjEWX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Seeing Time</h3>
+            <p>Yiming Sun</p>
+            <p>Did you know that time can be seen? "Seeing Time" aims to visually represent the concept of time and the scale of human life in relation to nature, helping visitors grasp the idea of temporal scale beyond human perception.</p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/rdffhZ4AMl0?si=CHzUlEtBn-z_HFv3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>How Do Pets See</h3>
+            <p>Gengyi Li</p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/tus3HyeO53A?si=zthcuJKOCVaMuhGH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Feeling History</h3>
+            <p>Anna Ibru</p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/M9_m3ZRtcqo?si=1lT75GNaLO3Lfxpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Heat Island Effect</h3>
+            <p>Kamilah Thorne</p>
+          </div>
+          <div class="col-md-4"><img src="f2023-student-photos/Heat Island Effect 1.jpeg" class="img-fluid"></div>
+          <div class="col-md-4"><img src="f2023-student-photos/Heat Island Effect 2.jpeg" class="img-fluid"></div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>Get Dizzy</h3>
+            <p>Carina Halcomb</p>
+          </div>
+          <div class="col-md-8">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/G5scH7GPPQ4?si=61Xta-Jz9-6bUJ_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </div>
+        </div>
+      </section>
+      <section class="project">
+        <div class="row">
+          <div class="col-md-4">
+            <h3>The Paradox of Digital Intimacy</h3>
+            <p>Zhiman Bia</p>
+            <p>
+              In an era dominated by technology, our fundamental modes of communication and connection are undergoing a profound transformation. It's not just about the devices we use, the digital platforms we engage with, or the speed at which we transmit information; it delves into the very core of human connection: <em>touch</em>.
+            </p>
+          </div>
+          <div class="col-md-8">
+            <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/894019930?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Paradox of Digital Intimacy_Final Exhibit Installation"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+          </div>
+        </div>
+      </section>    
+    </div>
+    <section id="press-release">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <p>
+              Making Sense is a playful, collaborative, and interactive science and design exhibition exploring our five senses featuring work by art and design students from Northeastern University. This hands-on experience encourages visitors to contemplate how our senses are evolving in a rapidly changing world and the role of technology in shaping these perceptions.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <p>
+              The exhibition features 16 projects that explore how our senses work and, ultimately, how we make sense of the world around us. Feel history with your hands, see like your dog, understand why you get dizzy, notice how age changes your relationship to your toothbrush, experience how the smell of coffee sparks memory, and more.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <p>
+              Northeastern University is at the forefront of cultivating the next generation of translators and explainers, emphasizing hands-on and experiential learning. This exhibition is the result of two courses — Interactivity in the Educational Museum and Introduction to Immersive Media — investigating the intersection of design and technology to create interactive experiences for the public.      
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h3>Boston CyberArts Galley</h3>
+          <p>
+          Green St. Orange Line stop
+          <br />
+          141 Green St., Boston
+          <br />
+          <i>Free admission</i>
+          </p>
+        </div>
+        <div class="col-md-4">
+          <p>
+          Friday Dec 1, 12–6
+          <br />
+          Saturday Dec 2, 12–6
+          <br />
+          Sunday Dec 3, 12–6
+          <br />
+          Friday Dec 8, 12–6
+          <br />
+          Saturday Dec 9, 12–6
+          <br />
+          <i>or by appointment</i>
+          <b>Opening Reception
+            <br />
+            Friday Dec 1, 5-7pm</b>
+          </p>
+        </div>
+        <div class="col-md-4">
+          <p>
+            <b>Curated by Sofie Hodara and Rahul Bhargava and featuring work by students from Northeastern University:</b>
+            <br />
+            Zhiman Bai, Sarah Bhowanlal, May El-Wakil, Taylor Farnell, Carina Halcomb, Scarlett Hanks, Anna Ibru, Trisha Iyer, Shanshan Lai, Yi Li, Ziyu Peng, Aditi Purandare, Sydney Purdue, Yiming Sun, Kamilah Thorne, Meng Un
+          </p>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-sm-4 offset-sm-8">
+          <img src="NU_CAMD_CfD_Logo-01.png" alt="Northeastern University College of Arts, Media and Design" class="img-fluid">
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+</body>
+</html>
