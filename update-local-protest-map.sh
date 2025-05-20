@@ -13,7 +13,7 @@ if [ $? -ne 0 ]; then
 fi
 
 # Copy all the contents inside the docs folder to the local-protest-map directory
-cp -r "$TMP_DIR/docs/" ./local-protest-map
+cp -r "$TMP_DIR/docs/" ./local-protest-map/
 
 # Clean up the temporary directory
 rm -rf "$TMP_DIR"
