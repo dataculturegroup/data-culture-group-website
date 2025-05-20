@@ -1,0 +1,32 @@
+name: Update Protest Map to latest code
+
+on:
+  # Manual trigger from GitHub UI (no inputs)
+  workflow_dispatch:
+  
+  # Automatic trigger every Tuesday at 1am EST (which is 5am UTC)
+  schedule:
+    - cron: '0 6 * * 2'
+
+jobs:
+  update-protest-map-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Run your update script
+      - name: Run script to pull latest code
+        run: |
+          ./update-local-protest-map.sh
+
+      # Commit and push any changes
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "GH-Bot: Update local-protest-map code"
+          git push
