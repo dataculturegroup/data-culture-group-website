@@ -4,9 +4,10 @@ on:
   # Manual trigger from GitHub UI (no inputs)
   workflow_dispatch:
   
-  # Automatic trigger every Tuesday at 1am EST (which is 5am UTC)
+  # Automatic trigger every day at 5am EST (which is 9am UTC)
   schedule:
-    - cron: '0 6 * * 2'
+    - cron: '0 9 * * *'
+
 
 jobs:
   update-protest-map-data:
