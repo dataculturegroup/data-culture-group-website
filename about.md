@@ -8,7 +8,7 @@ The **Data Culture Group** builds collaborative projects to **interrogate our da
 
 #### Tracking Where News is Going
 
-The news industry is in crisis, and there are no easy answers. We research attention and influence across media platforms, building our understanidng of how information and understanding flows in the media ecosystem.
+The news industry is in crisis, and there are no easy answers. We research attention and influence across media platforms, building our understanding of how information flows across the media ecosystems.
 
 #### Building a Better Toolbox for Data Storytelling
 
