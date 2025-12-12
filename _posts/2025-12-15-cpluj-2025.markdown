@@ -1,0 +1,48 @@
+---
+title:  "Data Journalism in Dark Times: notes from the C+J keynotes"
+date:   2025-12-15 09:00:00 -0600
+categories: [ "journalism", "events", "data" ]
+thumbnail: "cplus-25-thumb.png"
+author: Rahul Bhargava
+---
+
+I just returned from the [Computation + Journalism Symposium in Miami](https://cplusj2025.com), and I'm still processing the weight of what I heard. The four keynotes this year painted a sobering picture of data journalism operating under pressure—from authoritarian governments, algorithmic complexity, and information warfare. But they also offered glimpses of resilience and innovation that feel essential right now. Here are short summaries of each keynote, drafted with some AI assistance based on my live notes.
+
+![selfie of my standing outside in front of a building with signage saying "University of Miami"]({{ site.baseurl }}/static/img/posts/cplusj-25-selfie.jpg)
+*Me ready for Miami in December ☀️*
+
+## When Data Journalism Isn't Enough
+
+[Attila Bátorfy](https://attilabatorfy.com) opened with 15 years of experience doing data journalism in Hungary under Viktor Orbán's increasingly authoritarian government. His message was blunt: sophisticated data journalism hasn't stopped democratic erosion. Despite producing groundbreaking investigations--including tracking private jets to predict and photograph secret meetings of oligarchs--the work had limited impact on political reality.
+
+What struck me most was his catalog of how governments actively undermine data journalism: releasing low-resolution data, commodifying public information, creating datasets with bad methodology, and even sponsoring "independent" counter-data. His COVID dashboard became a trusted source (5 million uniques in 2 years, cited in dozens of scientific journals) precisely because government data was so unreliable. But he's now moving away from data journalism, noting that audiences "don't want facts" and that Hungarian newsrooms see it as expensive with bad ROI. The one exception? Sports and health data still cut through the noise. Attila's upcoming work focuses on historical representatos of data, and I'm excited to learn from what he shares.
+
+## Data as Weapon and Shield
+
+[Kae Petrin's](https://jsk.stanford.edu/people/kae-petrin) talk on anti-LGBTQ+ data policies brought this theme of governmental manipulation home to the US context. The Trump administration's systematic removal and alteration of CDC data—changing "gender" to "sex," taking down youth risk behavior data, adding warnings that datasets are "threats to society"—isn't just censorship. It's erasure through datafication.
+
+Petrin highlighted a crucial methodological problem that journalists fumbled: when the CDC improved its estimation methods for trans youth populations, the numbers roughly doubled. News coverage reported a "sharp rise" in trans youth, playing into "social contagion" narratives, when the real story was that better measurement revealing what was always there. Meanwhile, the demographic data showing far more trans young people than older adults raises haunting questions about where trans adults over 24 are. These are questions we can't answer if the data disappears.
+
+But Petrin also showed data's dark side: data can make people legible and vulnerable.
+
+## User Agency vs. Algorithmic Power
+
+[Homa Hosseinmardi's](https://comm.ucla.edu/person/homa-hosseinmardi/) work offered a different kind of complexity, and reveals that the villain might not be who we think. Her research on YouTube radicalization used an innovative "counterfactual bots" method to separate user intention from algorithmic influence. The finding? Users who relied exclusively on YouTube's recommender actually consumed less partisan content than those who actively searched and navigated themselves.
+
+This doesn't absolve platforms of responsibility, but it challenges the narrative of algorithms as "great radicalizers." The real picture is messier: a small group of users consuming vast amounts of far-right content, driven largely by external links and their own preferences. When her team simulated users without agency (random video selection, first recommendation only, etc.), those bots were showng content that drifted towards the politcal center over time. The algorithm appears to reflect and amplify existing preferences rather than creating them from scratch.
+
+The implications for journalism are significant: we may be overexamining algorithms while overlooking user agency and the broader information ecosystem that drives people to platforms in the first place.
+
+## Navigating Narrative Warfare
+
+Yevheniia Drozdova closed with work from [texty.org.ua](https://texty.org.ua), showing what data journalism looks like when your country is literally at war. Working from Kyiv, her team has moved beyond fact-checking individual claims to mapping entire narrative ecosystems. They train models to identify manipulation techniques, track coordinated bot networks across Telegram (where 50%+ of Ukrainians get news), and detect patterns in TikTok campaigns using shared filters and timing signatures.
+
+Her team found 2,000 TikTok bot accounts and documented coordinated Telegram networks. They trained models to detect emotional manipulation techniques, finding that 90% of messages from Russian accounts use fear and doubt. But their work isn't just technical detection, it's about providing context before narratives go viral. As she put it: "Fast news only satisfies the hunger for information, while slow journalism addresses a different deficit—deficit of understanding."
+
+## What Stays With Me
+
+These four talks trace a dark arc: data journalism struggling against authoritarian data practices, vulnerable populations made more visible and endangered through datafication, algorithmic explanations that may miss human complexity, and full-scale information warfare requiring new methodological approaches.
+
+But I'm also struck by the practitioners' persistence. Bátorfy's COVID dashboard becoming a trusted institution. Petrin tracking articles through [the Trans News Initiative](https://transnewsinitiative.org) to understand coverage patterns. Hosseinmardi's methodological innovation in creating counterfactual bots. Drozdova's team prebunking narratives in real-time during a war.
+
+These keynotes show various ways data journalism remains essential for documentation, for providing sources of truth, for understanding complex systems, and for serving communities when governments fail them. C+J'25 offered a critical moment of trans-national solidarity that I won't soon forget.
