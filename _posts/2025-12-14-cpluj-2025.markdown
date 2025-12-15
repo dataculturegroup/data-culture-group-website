@@ -1,6 +1,6 @@
 ---
 title:  "Data Journalism in Dark Times: notes from the C+J keynotes"
-date:   2025-12-15 09:00:00 -0600
+date:   2025-12-14 09:00:00 -0600
 categories: [ "journalism", "events", "visualization" ]
 thumbnail: "cplus-25-thumb.png"
 author: Rahul Bhargava
