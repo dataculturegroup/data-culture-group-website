@@ -13,7 +13,7 @@ His courses include:
 ---
 
 **visual Storytelling**
-* <a href="/teaching/how-boston-eats">Fall 2026 - How Boston Eats</a>  
+* <a href="/teaching/how-boston-eats">Fall 2026 - How Boston Eats micro-site</a>  
 
 ---
 
