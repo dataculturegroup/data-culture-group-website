@@ -12,6 +12,11 @@ His courses include:
 
 ---
 
+**visual Storytelling**
+* <a href="/teaching/how-boston-eats">Fall 2026 - How Boston Eats</a>  
+
+---
+
 **Coding for Digital Storytelling**
 * <a href="/teaching/JRNL5500/s2025.html">Spring 2025 final projects</a>  
 
