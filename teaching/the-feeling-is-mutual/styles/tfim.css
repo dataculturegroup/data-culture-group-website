@@ -1,0 +1,72 @@
+:root {
+    --color-primary: #F66FAC;
+    --color-secondary: #7CA0C2;
+    --color-primary2: #F09924;
+    --color-secondary2: #F5C51D;
+    --color-background: #FeF6E3;
+    --color-text: #403027;
+    --font-header: 'Rockwell Regular', Helvetica, serif;
+    background-color: #000;
+}
+
+@font-face {
+    font-family: 'Rockwell Regular';
+    src: url('../fonts/rockwell-regular.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  line-height: 1.6rem;
+}
+
+header {
+    background-color: var(--color-background);
+    padding: 2rem 0;
+    color: var(--color-text);
+    h2 {
+        padding: 2rem 0;
+    }
+}
+
+a {
+    color: var(--color-text);
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: var(--font-header);
+    color: var(--color-text);
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+
+main {
+    margin: 0 0 3rem 0;
+    h2 {
+        margin-top: 3rem;
+    }
+}
+
+footer {
+    padding: 2rem 0;
+    background-color: #000;
+    color: var(--color-background)
+}
+
+#slideshow {
+    background-color: var(--color-background);
+    padding-bottom: 75px;
+}
+
+#main-carousel {
+    height: 500px;
+    width: 100%;
+    .carousel-cell {
+        margin: 0 10px;
+    }
+}
