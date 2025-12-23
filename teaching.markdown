@@ -12,7 +12,13 @@ His courses include:
 
 ---
 
-**visual Storytelling**
+**Interactivity in the Educational Museum**  
+* <a href="/teaching/the-feeling-is-mutual">The Feeling is Mutual: A pop-up interactive exhibition exploring how and why we come together as community</a>  
+* <a href="/teaching/ARTG5000/f2023.html">Making Sense: popup science museum exhibit</a>  
+
+---
+
+**Visual Storytelling**
 * <a href="/teaching/how-boston-eats">Fall 2026 - How Boston Eats micro-site</a>  
 
 ---
@@ -24,11 +30,6 @@ His courses include:
 
 **Physical Computing**
 * <a href="/teaching/ARTG3250/s2025.html">Spring 2025 mini-mini golf</a>  
-
----
-
-**Interactivity in the Educational Museum**  
-* <a href="/teaching/ARTG5000/f2023.html">Making Sense: popup science museum exhibit</a>  
 
 ---
 
