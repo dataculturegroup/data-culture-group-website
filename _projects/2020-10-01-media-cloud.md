@@ -29,7 +29,9 @@ Media Cloud is an open-source platform for media analysis. This consists of both
 
 ### Papers, Presentations, and Press
 
+* Bhargava, R., Jespersen, M. H., Ndulue, E. B., & Dsouza, V. (2025, December 18). [Impacts of Racial Bias in Historical Training Data for News AI](https://doi.org/10.48550/arXiv.2512.16901). Computation + Journalism Symposium.
 * Bhargava, R., Hadjis, E., & Heckman, M. (2024, August). Testing Generative AI for Source Audits in Student-Produced Local News. Association for Education in Journalism and Mass Communication  (AEJMC), Philadelphia, PA.
+* Hatwar, S., Partridge, V., Bhargava, R., & Bermejo, F. (2024). [Author Unknown: Evaluating Performance of Author Extraction Libraries on Global Online News Articles](https://doi.org/10.48550/arXiv.2410.19771). Preprint on arXiv.
 * Kang, S., McCreedy, K., Messinger, J., Bhargava, R., & Beletsky, L. (2023). [The Other Infodemic: Media Misinformation about Involuntary Commitment for Substance Use](https://doi.org/10.1097/ADM.0000000000001194). Journal of Addiction Medicine, 17(6), e396.
 * Heckman, M., Bhargava, R., & Ndulue, E. B. (2023). [Powerful in pearls and Willie Brown’s mistress: A computational analysis of gendered news coverage of Kamala Harris on the partisan extremes](https://doi.org/10.1080/14680777.2023.2280545). Feminist Media Studies, 0(0), 1–19.
 * Roberts, H., Bhargava, R., Valiukas, L., Jen, D., Malik, M., Bishop, C., Ndulue, E., Dave, A., Clark, J., Etling, B., Faris, R., Shah, A., Rubinovitz, J., Hope, A., D’Ignazio, C., Bermejo, F., Benkler, Y., Zuckerman, E. (2021). [Media Cloud: Massive Open Source Collection of Global News on the Open Web](http://arxiv.org/abs/2104.03702). Presented at the 2021 International Conference on Web and Social Media (ICWSM’21), Atlanta, Georgia, USA.
