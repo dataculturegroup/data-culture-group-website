@@ -15,6 +15,7 @@ Read more abut the [Northeastern Data Theatre Collaborative](https://camd.northe
 
 ### Papers and Press
 
+* Panel Talk. [Civic Data Theatre and Municipal Climate Action](https://www.youtube.com/watch?v=zXnC1NWiwOU). CAMD Spring Conversations Series. 2026
 * Bhargava, R., Purdue, S., Perovich, L., Snyder-Young, D., Issak, A., Mages, M., Zellner, M., Massey, D., & Herrera, G. (2025, September 28). [Data Theatre as Input Visualization: Building Community Voice and Cohesion](https://doi.org/10.17605/OSF.IO/XPQCF). Workshop on Input Physicalization. IEEE Vis.
 * [From tutors to tax assistance, Northeastern’s Heart of CommUNITY awards honor civic leaders and volunteers](https://news.northeastern.edu/2024/06/15/heart-of-community-awards/) - Cynthia McCormick Hibbert, NGN, May 2024
 * Snyder-Young D., Arnold Mages M., Bhargava R., Carr J., Perovich L., Talmadge V., Wason O., Zellner M., C-Dina A., Birnholz R., Brockett, H., D'Ascoli, E., Holt, D., Love, S. Belliveau, G. (2024). [Viewpoints/Points of View: Building a Transdisciplinary Data Theatre Collaboration in Six Scenes](https://doi.org/10.3390/arts13010037). Arts. 13(1):37.
