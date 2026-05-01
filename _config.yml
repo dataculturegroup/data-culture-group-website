@@ -18,7 +18,7 @@ collections:
 social:
     - logo: "bluesky-logo.jpg"
       link: "https://bsky.app/profile/rahulbot.bsky.social"
-      name: "Blueskey"
+      name: "Bluesky"
     - logo: "mastodon-logo.png"
       link: "https://vis.social/@rahulbot"
       name: "Mastodon"
@@ -27,7 +27,7 @@ social:
       name: "LinkedIn"
 
 share:
-  twitter_username: rahulbot
+  bluesky_username: rahulbot
 
 urls:
     - text: Projects

@@ -14,11 +14,11 @@
        {% if author.email %}
          📨 - <a href="mailto:{{author.email}}">{{author.email}}</a> on email<br/>
        {% endif %}
-       {% if author.twitter %}
-         🐦 - <a href="https://twitter.com/{{author.twitter}}">@{{author.twitter}}</a> on Twitter<br/>
+       {% if author.bluesky %}
+         💬 - <a href="https://bsky.app/profile/{{author.bluesky}}">@{{author.bluesky}}</a> on Bluesky<br/>
        {% endif %}
        {% if author.instagram %}
-         📷 - <a href="https://www.instagram.com/{{author.twitter}}">@{{author.instagram}}</a> on Instagram<br/>
+         📷 - <a href="https://www.instagram.com/{{author.instagram}}">@{{author.instagram}}</a> on Instagram<br/>
        {% endif %}
        {% if author.website %}
          🌎 - <a href="{{author.website}}">{{author.website | replace("https://", "") }}</a> on the web<br/>
