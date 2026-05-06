@@ -1,0 +1,33 @@
+name: Update Our Own Terms to latest code
+
+on:
+  # Manual trigger from GitHub UI (no inputs)
+  workflow_dispatch:
+  
+  # Automatic trigger every day at 5am EST (which is 9am UTC)
+  schedule:
+    - cron: '0 9 * * *'
+
+
+jobs:
+  update-our-own-terms:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Run your update script
+      - name: Run script to pull latest code
+        run: |
+          ./update-our-own-terms.sh
+
+      # Commit and push any changes
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "GH-Bot: Update our-own-terms code"
+          git push
