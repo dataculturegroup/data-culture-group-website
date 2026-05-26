@@ -29,6 +29,7 @@ Media Cloud is an open-source platform for media analysis. This consists of both
 
 ### Papers, Presentations, and Press
 
+* Bermejo, F., Bhargava, R., Budne, P., Gulley, P., Leon, E., McGrady, R., Ndulue, E. B., & Zuckerman, E. (2026). [Media Cloud 2.0: An Updated Open Web News Archive](https://doi.org/10.1609/icwsm.v20i1.42778). Proceedings of the International AAAI Conference on Web and Social Media, 20(1), 2735–2746.
 * Bhargava, R., Jespersen, M. H., Ndulue, E. B., & Dsouza, V. (2025, December 18). [Impacts of Racial Bias in Historical Training Data for News AI](https://doi.org/10.48550/arXiv.2512.16901). Computation + Journalism Symposium.
 * Bhargava, R., Hadjis, E., & Heckman, M. (2024, August). Testing Generative AI for Source Audits in Student-Produced Local News. Association for Education in Journalism and Mass Communication  (AEJMC), Philadelphia, PA.
 * Hatwar, S., Partridge, V., Bhargava, R., & Bermejo, F. (2024). [Author Unknown: Evaluating Performance of Author Extraction Libraries on Global Online News Articles](https://doi.org/10.48550/arXiv.2410.19771). Preprint on arXiv.
