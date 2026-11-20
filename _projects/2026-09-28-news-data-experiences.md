@@ -11,11 +11,13 @@ Investigative and data journalism continue to serve the public good, but exist i
 
 ### Related Workshops and Talks
 
-* _News Data Experiences: Retell a Data Story Off the Screen_. Workshop for Design undergraduates at Potsdam University of Applied Sciences (Potsdam, Germany). Oct 2026.
-* _Data, Journalism and Community Learning_. Talk at the Investigative Journalism Residency, Tactical Tech Collective (Berlin, Germany). Oct 2026.
+* _Telling Community Data Stories_. Workshop at the [Engaging Communities with Investigations & Evidence](Engaging Communities with Investigations & Evidence) event, Tactical Tech Collection (Berlin, Germany). Nov 2026.
+* _Data Drums: provoking climate action with data-inspired body-percussion_. Participatory performance at [Visualizing Climate 2026](https://visualisingclimate.com/archive/2026/submissions/) (Bologna, Italy). Nov 2026.
+* _News Data Experiences: Retell a Data Story Off the Screen_. Workshop for Design undergraduates at [Potsdam University of Applied Sciences](https://www.fh-potsdam.de) (Potsdam, Germany). Oct 2026.
+* _Data, Journalism and Community Learning_. Talk at the [Investigative Journalism Residency](https://exposingtheinvisible.org/en/call-investigation-residency-2026/), Tactical Tech Collective (Berlin, Germany). Oct 2026.
 * _Embodying Data to Tell Impactful Data Stories_. Workshop for the Digital Scholarship Hub at the University of Wisconsin (Madison, WI). March 2026.
-* _Embodying Data: Storytelling Under Autocracy (Let's get Physical)_. Workshop with Andres Snitcofsky at the Computation + Journalism Symposium, University of Miami (Miami, FL). Dec 2025.
-* _Physical Data Visualization for Journalists_. Workshop with Andres Snitcofsky at the Computation + Journalism Symposium (Boston, MA). Oct 2024.
+* _Embodying Data: Storytelling Under Autocracy (Let's get Physical)_. Workshop with Andres Snitcofsky at the [Computation + Journalism Symposium](https://idsc.miami.edu/computation-journalism-symposium-2025/), University of Miami (Miami, FL). Dec 2025.
+* _Physical Data Visualization for Journalists_. Workshop with Andres Snitcofsky at the [Computation + Journalism Symposium](https://camd.northeastern.edu/events/the-2024-computation-journalism-symposium/) (Boston, MA). Oct 2024.
 
 ### Learn More
 
